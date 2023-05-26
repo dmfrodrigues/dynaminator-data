@@ -1,0 +1,40 @@
+name: Background poly
+
+on:
+  workflow_dispatch
+
+permissions: read-all
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive
+
+    - name: Setup
+      run: |
+        sudo add-apt-repository ppa:sumo/stable
+        sudo apt-get update
+        sudo apt-get install -y \
+          imagemagick
+
+    - name: Download network
+      uses: dawidd6/action-download-artifact@v2.27.0
+      with:
+        workflow: pipeline.yml
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        name: porto-sumo
+
+    - name: Build
+      run: |
+        ls -la
+        make -C background/satellite
+
+    - name: Upload background
+      uses: actions/upload-artifact@v2
+      with:
+        name: porto-background-satellite
+        path: background/satellite/porto.jpeg
