@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='41.05' minlon='-8.7' maxlat='41.1' maxlon='-8.65' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1' minlon='-8.7' maxlat='41.15' maxlon='-8.65' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.7' maxlat='41.175' maxlon='-8.675' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.675' maxlat='41.1625' maxlon='-8.65' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1625' minlon='-8.675' maxlat='41.175' maxlon='-8.6625' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1625' minlon='-8.6625' maxlat='41.175' maxlon='-8.65' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.175' minlon='-8.7' maxlat='41.2' maxlon='-8.675' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.175' minlon='-8.675' maxlat='41.2' maxlon='-8.65' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.05' minlon='-8.65' maxlat='41.1' maxlon='-8.6' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1' minlon='-8.65' maxlat='41.125' maxlon='-8.625' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1' minlon='-8.625' maxlat='41.125' maxlon='-8.6' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.125' minlon='-8.65' maxlat='41.15' maxlon='-8.625' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.125' minlon='-8.625' maxlat='41.1375' maxlon='-8.6' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1375' minlon='-8.625' maxlat='41.15' maxlon='-8.6' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.65' maxlat='41.175' maxlon='-8.625' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.625' maxlat='41.175' maxlon='-8.6' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.175' minlon='-8.65' maxlat='41.2' maxlon='-8.625' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.175' minlon='-8.625' maxlat='41.2' maxlon='-8.6' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.05' minlon='-8.6' maxlat='41.1' maxlon='-8.55' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1' minlon='-8.6' maxlat='41.125' maxlon='-8.55' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.125' minlon='-8.6' maxlat='41.15' maxlon='-8.55' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.6' maxlat='41.175' maxlon='-8.575' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.575' maxlat='41.175' maxlon='-8.55' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.175' minlon='-8.6' maxlat='41.2' maxlon='-8.55' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.05' minlon='-8.55' maxlat='41.1' maxlon='-8.5' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.1' minlon='-8.55' maxlat='41.15' maxlon='-8.5' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+  <bounds minlat='41.15' minlon='-8.55' maxlat='41.2' maxlon='-8.5' origin='CGImap 0.8.8 (3313936 spike-07.openstreetmap.org)' />
+</osm>
