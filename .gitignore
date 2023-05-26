@@ -14,3 +14,5 @@ porto.*.xml
 background/satellite/tiles
 porto-boundary.poly
 porto.jpeg
+josm/porto-unbounded-josm.osm
+porto-unbounded.osm

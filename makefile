@@ -1,15 +1,13 @@
 all: porto.net.xml porto.taz.xml
 
-OSM2POLY=openstreetmap/svn-archive/applications/utils/osm-extract/polygons/osm2poly.pl
-# OSMCONVERT=osmctools/build/osmconvert
-OSMCONVERT=osmconvert
+OSM2POLY=openstreetmap/svn-archive/osm2poly.pl
 
 porto-boundary-strict.osm: porto-unbounded.osm
 	osmfilter porto-unbounded.osm \
 		--keep="type=boundary and admin_level=7 and name=Porto" \
 		--drop="admin_level=8" \
 		> $@.tmp
-	$(OSMCONVERT) $@.tmp \
+	osmconvert $@.tmp \
 		-b=-8.8,41.0,-8.5,41.3 \
 		-o=$@
 	rm $@.tmp
@@ -27,7 +25,7 @@ porto-boundary.poly: porto-boundary.osm
 	rm $<.tmp
 
 porto-nolinks.osm: porto-unbounded.osm porto-boundary.poly
-	$(OSMCONVERT) porto-unbounded.osm \
+	osmconvert porto-unbounded.osm \
 		-B=porto-boundary.poly \
 		--complete-ways \
 		--complete-multipolygons \
@@ -35,7 +33,7 @@ porto-nolinks.osm: porto-unbounded.osm porto-boundary.poly
 		-o=$@.tmp
 		# --complete-routeroads \
 
-	$(OSMCONVERT) $@.tmp \
+	osmconvert $@.tmp \
 		-b=-8.70,41.06,-8.54,41.19 \
 		--complete-multipolygons \
 		--complete-boundaries \
@@ -48,11 +46,11 @@ porto-links.osm: porto-unbounded.osm
 		--keep="highway=motorway highway=motorway_link" \
 		> $@.tmp
 
-	$(OSMCONVERT) $@.tmp \
+	osmconvert $@.tmp \
 		-b=-8.70,41.06,-8.54,41.19 \
 		-o=$@.tmp.tmp
 
-	$(OSMCONVERT) $@.tmp.tmp \
+	osmconvert $@.tmp.tmp \
 		-b=-8.70,41.08,-8.54,41.19 \
 		--complete-ways \
 		-o=$@
