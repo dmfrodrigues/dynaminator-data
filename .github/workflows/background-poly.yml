@@ -6,8 +6,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      actions: read
+    permissions: read-all|write-all
 
     steps:
     - uses: actions/checkout@v3
