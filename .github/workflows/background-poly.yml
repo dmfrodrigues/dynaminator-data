@@ -3,7 +3,7 @@ name: Background poly
 on:
   workflow_dispatch
 
-# permissions: read-all
+permissions: read-all
 
 jobs:
   build:
