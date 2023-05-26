@@ -1,4 +1,4 @@
-name: Background poly
+name: Background satellite
 
 on:
   workflow_dispatch
