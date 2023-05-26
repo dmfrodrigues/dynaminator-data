@@ -1,0 +1,16 @@
+porto-links.osm
+porto-boundary-strict.osm
+porto-nolinks.osm
+porto.osm
+porto.net.xml
+porto-osm.net.xml
+porto-osm-geo.*.xml
+porto-armis-geo.net.xml
+porto-armis-shape.taz.xml
+porto-geo-fixed.*
+porto-geo.*
+porto-fixed.*
+porto.*.xml
+background/satellite/tiles
+porto-boundary.poly
+porto.jpeg

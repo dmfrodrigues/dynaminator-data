@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-25 20:59:10.763204 by netdiff.py UNKNOWN
+<configuration>
+    <source value="porto-osm-geo.net.xml"/>
+    <dest value="porto-fixed.net.xml"/>
+    <outprefix value="diff"/>
+</configuration>
+-->
+
+<types>
+    <!-- Deleted Elements -->
+    <!-- Created Elements -->
+    <!-- Changed Elements -->
+</types>

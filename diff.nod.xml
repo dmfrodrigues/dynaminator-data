@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-25 20:59:07.381754 by netdiff.py UNKNOWN
+<configuration>
+    <source value="porto-osm-geo.net.xml"/>
+    <dest value="porto-fixed.net.xml"/>
+    <outprefix value="diff"/>
+</configuration>
+-->
+
+<nodes version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+    <!-- Deleted Elements -->
+    <!-- Created Elements -->
+    <!-- Changed Elements -->
+    <node id="10838683814" type="priority"/>
+    <node id="1110673414" controlledInner="167487423" tl="138214591"/>
+    <node id="1225943158" tl="TLS_Prelada"/>
+    <node id="126592365" tl="TLS_Prelada"/>
+    <node id="126617430" tl="TL_SBras_JoaoPedroBrito"/>
+    <node id="138214591" controlledInner="167487423" tl="138214591" type="traffic_light"/>
+    <node id="1418798464" type="priority"/>
+    <node id="1418798469" type="priority"/>
+    <node id="1418798472" type="priority"/>
+    <node id="1788786447" type="priority"/>
+    <node id="1788786451" controlledInner="167487441" tl="TL_JulioDinis" type="traffic_light"/>
+    <node id="2585503026" tl="TLS_Rotunda_Boavista" type="traffic_light"/>
+    <node id="335560491" controlledInner="167487441" tl="TL_JulioDinis"/>
+    <node id="3391599154" controlledInner="482240916" tl="TLS_Campo_Alegre"/>
+    <node id="3391599155" controlledInner="482240916" tl="TLS_Campo_Alegre" type="traffic_light"/>
+    <node id="3446699975" tl="TLS_Rotunda_Boavista"/>
+    <node id="3446699979" tl="TLS_Rotunda_Boavista"/>
+    <node id="3446699996" type="priority"/>
+    <node id="420776894" controlledInner="286085489 35997762" tl="TL_HSJ_FEUP" type="traffic_light"/>
+    <node id="420776909" controlledInner="286085489 35997762" tl="TL_HSJ_FEUP" type="traffic_light"/>
+    <node id="420807840" controlledInner="286085489 35997762" tl="TL_HSJ_FEUP"/>
+    <node id="90378713" type="priority"/>
+    <node id="90378716" tl="TLS_Rotunda_Boavista"/>
+    <node id="cluster_126604789_428217475_475360026" tl="TLS_Fatima"/>
+</nodes>

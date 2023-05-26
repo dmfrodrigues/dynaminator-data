@@ -1,0 +1,7 @@
+
+node[equipamento="SEM"] {
+    icon-image: "presets/vehicle/traffic_signals.svg";
+    icon-width: 10px;
+}
+
+

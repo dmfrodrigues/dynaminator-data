@@ -1,0 +1,1100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='41.0' minlon='-8.8' maxlat='41.3' maxlon='-8.5' origin='osmconvert 0.8.8' />
+  <node id='-101790' action='modify' visible='true' lat='41.17360788698' lon='-8.69055841389' />
+  <node id='-101961' action='modify' visible='true' lat='41.16889694118' lon='-8.69165892934' />
+  <node id='-101983' action='modify' visible='true' lat='41.16679587489' lon='-8.69142026997' />
+  <node id='-102255' action='modify' visible='true' lat='41.17375509609' lon='-8.6870745499' />
+  <node id='-102270' action='modify' visible='true' lat='41.17542180771' lon='-8.67122977918' />
+  <node id='-102286' action='modify' visible='true' lat='41.17880250718' lon='-8.66339689357' />
+  <node id='-102304' action='modify' visible='true' lat='41.17811640147' lon='-8.65636287611' />
+  <node id='-102309' action='modify' visible='true' lat='41.17835092444' lon='-8.65466735139' />
+  <node id='-102318' action='modify' visible='true' lat='41.17861788183' lon='-8.65386848324' />
+  <node id='-102339' action='modify' visible='true' lat='41.17946116065' lon='-8.65274144934' />
+  <node id='-102346' action='modify' visible='true' lat='41.17962457585' lon='-8.6523585893' />
+  <node id='-102352' action='modify' visible='true' lat='41.17957467812' lon='-8.6519475534' />
+  <node id='-102363' action='modify' visible='true' lat='41.18290402192' lon='-8.64613007125' />
+  <node id='-102389' action='modify' visible='true' lat='41.18348779577' lon='-8.64001425825' />
+  <node id='-102398' action='modify' visible='true' lat='41.18295890912' lon='-8.63905296463' />
+  <node id='-102408' action='modify' visible='true' lat='41.18151193324' lon='-8.63638123133' />
+  <node id='-102420' action='modify' visible='true' lat='41.1801547406' lon='-8.62458715304' />
+  <node id='-102430' action='modify' visible='true' lat='41.18047408258' lon='-8.62346011914' />
+  <node id='-102441' action='modify' visible='true' lat='41.18104789627' lon='-8.62279715802' />
+  <node id='-102449' action='modify' visible='true' lat='41.18253978836' lon='-8.62264467696' />
+  <node id='-102460' action='modify' visible='true' lat='41.18309362594' lon='-8.62294300946' />
+  <node id='-102468' action='modify' visible='true' lat='41.18314851049' lon='-8.62237949251' />
+  <node id='-102481' action='modify' visible='true' lat='41.18155185025' lon='-8.62030442421' />
+  <node id='-102512' action='modify' visible='true' lat='41.18214561282' lon='-8.59613286185' />
+  <node id='-102518' action='modify' visible='true' lat='41.1818312686' lon='-8.59397160861' />
+  <node id='-102524' action='modify' visible='true' lat='41.1836075431' lon='-8.593964979' />
+  <node id='-102531' action='modify' visible='true' lat='41.18460542899' lon='-8.59411746005' />
+  <node id='-102539' action='modify' visible='true' lat='41.18466530166' lon='-8.59364675766' />
+  <node id='-102544' action='modify' visible='true' lat='41.18280423391' lon='-8.5929572781' />
+  <node id='-102555' action='modify' visible='true' lat='41.18126245141' lon='-8.59220150242' />
+  <node id='-102568' action='modify' visible='true' lat='41.18046410316' lon='-8.59144572675' />
+  <node id='-102590' action='modify' visible='true' lat='41.18013727405' lon='-8.57377780964' />
+  <node id='-102593' action='modify' visible='true' lat='41.18018467648' lon='-8.57217012893' />
+  <node id='-102601' action='modify' visible='true' lat='41.18013976891' lon='-8.57123203895' />
+  <node id='-102605' action='modify' visible='true' lat='41.17983788945' lon='-8.57052930016' />
+  <node id='-102628' action='modify' visible='true' lat='41.17397965551' lon='-8.56762884527' />
+  <node id='-102645' action='modify' visible='true' lat='41.17204342893' lon='-8.56689958804' />
+  <node id='-102656' action='modify' visible='true' lat='41.16911901948' lon='-8.56941884029' />
+  <node id='-102664' action='modify' visible='true' lat='41.16879463155' lon='-8.5694818216' />
+  <node id='-102668' action='modify' visible='true' lat='41.16862744638' lon='-8.56987628346' />
+  <node id='-102676' action='modify' visible='true' lat='41.16858003558' lon='-8.57045637444' />
+  <node id='-102711' action='modify' visible='true' lat='41.16707035798' lon='-8.5667570514' />
+  <node id='-102731' action='modify' visible='true' lat='41.15886509122' lon='-8.56035947993' />
+  <node id='-102859' action='modify' visible='true' lat='41.14411398612' lon='-8.57199444755' />
+  <node id='311624271' action='modify' timestamp='2018-12-30T22:14:53Z' uid='7150632' user='MIGU3L666' visible='true' version='8' changeset='65899367' lat='41.14509862785' lon='-8.67655766889' />
+  <node id='311624278' action='delete' timestamp='2012-03-14T22:37:31Z' uid='226150' user='hotelsierra' visible='true' version='4' changeset='10983440' lat='41.1467182' lon='-8.6763853' />
+  <node id='1675107571' timestamp='2016-10-08T21:42:49Z' uid='4400624' user='aenariel' visible='true' version='3' changeset='42743210' lat='41.1446077' lon='-8.6795455' />
+  <node id='1675107581' timestamp='2016-10-08T21:42:49Z' uid='4400624' user='aenariel' visible='true' version='3' changeset='42743210' lat='41.1448218' lon='-8.6798343' />
+  <node id='1675107613' action='delete' timestamp='2016-10-08T21:42:49Z' uid='4400624' user='aenariel' visible='true' version='2' changeset='42743210' lat='41.1461214' lon='-8.6775701' />
+  <node id='1675107614' action='delete' timestamp='2016-10-08T21:42:49Z' uid='4400624' user='aenariel' visible='true' version='2' changeset='42743210' lat='41.1461741' lon='-8.6776368' />
+  <node id='1675107656' action='delete' timestamp='2018-12-30T22:14:52Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.1468086' lon='-8.6771645' />
+  <node id='1675107660' action='delete' timestamp='2014-05-18T23:46:47Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='22416464' lat='41.1468372' lon='-8.6764405' />
+  <node id='1743494979' action='delete' timestamp='2021-06-19T10:53:06Z' uid='12609629' user='PedroMTG13' visible='true' version='3' changeset='106627239' lat='41.17403617755' lon='-8.68952093664' />
+  <node id='2575056858' action='modify' timestamp='2015-01-08T14:04:39Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18007125635' lon='-8.65108201067' />
+  <node id='2575056864' action='modify' timestamp='2015-01-08T14:04:39Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18380112784' lon='-8.64061524641' />
+  <node id='2575056865' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18427301115' lon='-8.64134995782' />
+  <node id='2575056871' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1840245234' lon='-8.64093326899' />
+  <node id='2575056879' action='modify' timestamp='2015-01-08T14:04:39Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18184098692' lon='-8.64801485922' />
+  <node id='2575056885' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18451991934' lon='-8.64297057612' />
+  <node id='2575056892' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1793614939' lon='-8.63200362333' />
+  <node id='2575056898' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18467628151' lon='-8.64219509207' />
+  <node id='2575056907' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17936088569' lon='-8.63257411505' />
+  <node id='2575056909' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17947930997' lon='-8.63080821804' />
+  <node id='2575056910' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18457814898' lon='-8.64183061705' />
+  <node id='2575082564' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17708035425' lon='-8.66180220753' />
+  <node id='2575082567' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17897387614' lon='-8.66714150703' />
+  <node id='2575082570' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17939968163' lon='-8.66633057792' />
+  <node id='2575082573' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17860055432' lon='-8.66745257353' />
+  <node id='2575082578' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17720242392' lon='-8.66199228908' />
+  <node id='2575082579' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17909343703' lon='-8.66390048569' />
+  <node id='2575082580' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17705523425' lon='-8.66139103375' />
+  <node id='2575082585' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124141914' lat='41.17758010803' lon='-8.65768405583' />
+  <node id='2575082586' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17942924987' lon='-8.66552789297' />
+  <node id='2575082587' action='modify' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17715579365' lon='-8.66048267213' />
+  <node id='2575082589' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17936393469' lon='-8.66488026336' />
+  <node id='2575082590' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17925149925' lon='-8.66673050728' />
+  <node id='2582230638' action='modify' timestamp='2022-07-26T22:03:23Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124113896' lat='41.17664891074' lon='-8.66901436874' />
+  <node id='2582230639' action='delete' timestamp='2015-01-08T14:04:40Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1765961' lon='-8.6687045' />
+  <node id='2582230641' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='66555733' lat='41.17673425496' lon='-8.66866868081' />
+  <node id='2582230642' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='66555733' lat='41.17691004488' lon='-8.66840861795' />
+  <node id='2582234550' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='66555733' lat='41.17620582743' lon='-8.6704689005' />
+  <node id='2582234555' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='4' changeset='66555733' lat='41.17470212269' lon='-8.6718956512' />
+  <node id='2582234557' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='4' changeset='66555733' lat='41.17644644209' lon='-8.66967558355' />
+  <node id='2582234559' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='66555733' lat='41.17594353713' lon='-8.67094466625' />
+  <node id='2582239781' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='4' changeset='66555733' lat='41.17351901702' lon='-8.6830546828' />
+  <node id='2582239788' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='66555733' lat='41.17169270758' lon='-8.679282034' />
+  <node id='2582239796' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17201297941' lon='-8.6761284842' />
+  <node id='2582239806' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17164604952' lon='-8.67871024855' />
+  <node id='2582239808' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='4' changeset='66555733' lat='41.17382973784' lon='-8.68574937114' />
+  <node id='2582239809' action='modify' timestamp='2015-06-09T02:47:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17220197301' lon='-8.67558683639' />
+  <node id='2582239811' action='modify' timestamp='2015-01-08T14:04:41Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17183508811' lon='-8.67960113036' />
+  <node id='2582239816' action='modify' timestamp='2021-05-14T21:11:53Z' uid='31231' user='Andre68' visible='true' version='5' changeset='104708537' lat='41.17397389277' lon='-8.68935657966' />
+  <node id='2582239819' action='modify' timestamp='2015-01-08T14:04:41Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17391108146' lon='-8.68406817453' />
+  <node id='2583821705' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124109914' lat='41.1588626' lon='-8.5532508' />
+  <node id='2583877538' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17014697549' lon='-8.56960772777' />
+  <node id='2583877540' action='delete' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1782339' lon='-8.5691881' />
+  <node id='2583877542' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.16769058334' lon='-8.56982504516' />
+  <node id='2583877544' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17586485469' lon='-8.56585299686' />
+  <node id='2583877545' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.16821116432' lon='-8.57059520414' />
+  <node id='2583877548' action='delete' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1784374' lon='-8.569741' />
+  <node id='2583877550' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.16950067444' lon='-8.56975600952' />
+  <node id='2583877552' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17128096495' lon='-8.56700708908' />
+  <node id='2583877554' action='delete' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1677946' lon='-8.5706133' />
+  <node id='2583877559' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17172945904' lon='-8.56688787841' />
+  <node id='2583877560' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17002901876' lon='-8.56985823425' />
+  <node id='2583877562' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18074828896' lon='-8.5753675498' />
+  <node id='2583877565' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18022705393' lon='-8.57428542737' />
+  <node id='2583877566' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18053434212' lon='-8.57493854591' />
+  <node id='2583877568' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17109331655' lon='-8.56716273689' />
+  <node id='2583877571' action='delete' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1714478' lon='-8.567183' />
+  <node id='2583877581' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17336975391' lon='-8.56751475269' />
+  <node id='2583877582' action='delete' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.171213' lon='-8.5674328' />
+  <node id='2583877585' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.16756923247' lon='-8.56803009736' />
+  <node id='2583877590' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17552193242' lon='-8.56603340753' />
+  <node id='2583877592' action='delete' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1700178' lon='-8.5702994' />
+  <node id='2583877595' action='modify' timestamp='2022-06-08T13:27:47Z' uid='15895779' user='MRibz' visible='true' version='3' changeset='122118879' lat='41.16561943665' lon='-8.5658051675' />
+  <node id='2583877596' action='delete' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1698462' lon='-8.5704446' />
+  <node id='2583877598' action='modify' timestamp='2015-01-08T14:04:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.16674941281' lon='-8.56647926775' />
+  <node id='2583877600' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.16791708133' lon='-8.57046766361' />
+  <node id='2583877603' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124109914' lat='41.16315769103' lon='-8.56504241655' />
+  <node id='2583877604' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1637454133' lon='-8.56542093425' />
+  <node id='2583877607' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.16769059265' lon='-8.56878590364' />
+  <node id='2583877609' action='delete' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1676906' lon='-8.5704965' />
+  <node id='2583877611' action='delete' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1805664' lon='-8.5752117' />
+  <node id='2583877614' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17570769436' lon='-8.56587725972' />
+  <node id='2583877616' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17735196428' lon='-8.5677166818' />
+  <node id='2583877617' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.17464589239' lon='-8.56699689471' />
+  <node id='2583877621' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17424615765' lon='-8.56747606775' />
+  <node id='2583877624' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.16770873449' lon='-8.57024427403' />
+  <node id='2583888911' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1789959209' lon='-8.56993148315' />
+  <node id='2583924923' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18031574544' lon='-8.5865069818' />
+  <node id='2583924924' action='delete' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18095079118' lon='-8.57842172532' />
+  <node id='2583924925' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.1812657618' lon='-8.58482425982' />
+  <node id='2583924928' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.17987410341' lon='-8.58772442986' />
+  <node id='2583924929' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18002825676' lon='-8.58928916361' />
+  <node id='2583924930' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18011730252' lon='-8.59025601117' />
+  <node id='2583924932' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1852603' lon='-8.6023655' />
+  <node id='2583924933' action='modify' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18166399162' lon='-8.594528533' />
+  <node id='2583924934' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18025726106' lon='-8.59098724128' />
+  <node id='2583924935' action='delete' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18079746395' lon='-8.58013894202' />
+  <node id='2583924936' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18187443524' lon='-8.59514421366' />
+  <node id='2583924937' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.17999880848' lon='-8.58845907792' />
+  <node id='2583924938' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18110897113' lon='-8.57632265807' />
+  <node id='2583924939' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1852996' lon='-8.6022855' />
+  <node id='2583924940' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18003947245' lon='-8.58702588933' />
+  <node id='2583924941' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.1824983' lon='-8.5963601' />
+  <node id='2583924946' action='modify' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18093603615' lon='-8.57571129761' />
+  <node id='2583930761' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1850847' lon='-8.6087104' />
+  <node id='2583930772' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1849196' lon='-8.6120491' />
+  <node id='2583930774' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1853535' lon='-8.6115562' />
+  <node id='2583930776' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1851952' lon='-8.6105633' />
+  <node id='2583930779' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1848709' lon='-8.6128722' />
+  <node id='2583930782' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.185126' lon='-8.6115364' />
+  <node id='2583930785' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1847384' lon='-8.6093315' />
+  <node id='2583930791' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1848654' lon='-8.6120275' />
+  <node id='2583930794' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1854339' lon='-8.6106789' />
+  <node id='2583946059' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1848105' lon='-8.6137501' />
+  <node id='2583946060' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1842554' lon='-8.6160542' />
+  <node id='2583946061' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1843909' lon='-8.6146844' />
+  <node id='2583946062' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1847726' lon='-8.6139865' />
+  <node id='2583946065' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1845757' lon='-8.6143426' />
+  <node id='2583946066' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1844488' lon='-8.6147952' />
+  <node id='2583946067' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1847237' lon='-8.6141758' />
+  <node id='2583946068' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1847493' lon='-8.6135779' />
+  <node id='2583948489' timestamp='2015-01-08T14:04:43Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1835075' lon='-8.6165174' />
+  <node id='2583948491' timestamp='2015-01-08T14:04:44Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1838497' lon='-8.6170426' />
+  <node id='2583948493' action='delete' timestamp='2015-01-08T14:04:44Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18228275828' lon='-8.61913437567' />
+  <node id='2583948497' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1825685' lon='-8.6187737' />
+  <node id='2583948499' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1830326' lon='-8.6180028' />
+  <node id='2750803260' action='delete' timestamp='2018-12-30T22:14:53Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.146796' lon='-8.6762308' />
+  <node id='2867753311' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='2' changeset='65899367' lat='41.1474378' lon='-8.6757188' />
+  <node id='2867753315' action='delete' timestamp='2018-12-30T22:14:52Z' uid='7150632' user='MIGU3L666' visible='true' version='2' changeset='65899367' lat='41.1467644' lon='-8.6771318' />
+  <node id='2867753317' timestamp='2016-10-08T21:42:49Z' uid='4400624' user='aenariel' visible='true' version='2' changeset='42743210' lat='41.1446778' lon='-8.6796734' />
+  <node id='2867753318' action='delete' timestamp='2018-12-30T22:14:53Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.146768' lon='-8.6762959' />
+  <node id='2946222584' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124141914' lat='41.14489174145' lon='-8.66037355533' />
+  <node id='2946222585' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124141914' lat='41.1450767' lon='-8.6510571' />
+  <node id='2946222587' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124141914' lat='41.1429015' lon='-8.6629507' />
+  <node id='2946222588' timestamp='2015-01-08T14:04:45Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1474684' lon='-8.639072' />
+  <node id='2946222589' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124141914' lat='41.143434' lon='-8.6571441' />
+  <node id='2946222590' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124141914' lat='41.1462518' lon='-8.6479869' />
+  <node id='2946222593' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124141914' lat='41.1471566' lon='-8.636727' />
+  <node id='2946222594' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124141914' lat='41.1472872' lon='-8.6409824' />
+  <node id='2946224779' timestamp='2015-01-08T14:04:45Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1394193' lon='-8.6181223' />
+  <node id='2946224780' timestamp='2015-01-08T14:04:45Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1446705' lon='-8.6314634' />
+  <node id='2946224781' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1398428' lon='-8.6197046' />
+  <node id='2946224783' timestamp='2015-01-08T14:04:45Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1407271' lon='-8.6059152' />
+  <node id='2946224784' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1436134' lon='-8.6256548' />
+  <node id='2946224786' timestamp='2015-01-08T14:04:45Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1392837' lon='-8.6120579' />
+  <node id='2946232238' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1412024' lon='-8.600871' />
+  <node id='2946232239' timestamp='2015-06-09T02:47:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1404148' lon='-8.5982616' />
+  <node id='2946236049' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1392081' lon='-8.5901072' />
+  <node id='2946236050' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1383507' lon='-8.5941835' />
+  <node id='2946236051' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1402678' lon='-8.5877518' />
+  <node id='2946236052' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1400582' lon='-8.5973679' />
+  <node id='2946469897' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1413123' lon='-8.5769489' />
+  <node id='2946469901' timestamp='2015-01-08T14:04:46Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1399579' lon='-8.5757632' />
+  <node id='2946469911' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.142424' lon='-8.5820928' />
+  <node id='2946647180' action='delete' timestamp='2017-12-30T18:43:48Z' uid='4400624' user='aenariel' visible='true' version='3' changeset='55042089' lat='41.1561474' lon='-8.5546343' />
+  <node id='2946647181' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124109914' lat='41.1573185' lon='-8.5548517' />
+  <node id='2946647182' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124109914' lat='41.1576518' lon='-8.5544806' />
+  <node id='2946651582' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124109914' lat='41.1601548' lon='-8.5640872' />
+  <node id='2946651584' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='5' changeset='124109914' lat='41.1552523' lon='-8.5543441' />
+  <node id='2947420197' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18592' lon='-8.6047502' />
+  <node id='2947420198' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.185861' lon='-8.6054487' />
+  <node id='2947420200' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1836828' lon='-8.5989816' />
+  <node id='2947420201' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1858565' lon='-8.6035262' />
+  <node id='2947420203' timestamp='2016-09-23T14:01:15Z' uid='4400624' user='aenariel' visible='true' version='4' changeset='42374774' lat='41.183749' lon='-8.5969238' />
+  <node id='2947420204' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1857304' lon='-8.6057887' />
+  <node id='2947420207' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1853289' lon='-8.6097264' />
+  <node id='2947420208' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.185081' lon='-8.6020817' />
+  <node id='2947420209' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1859353' lon='-8.6041556' />
+  <node id='2947420210' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1837548' lon='-8.5982001' />
+  <node id='2947420212' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1854171' lon='-8.6087241' />
+  <node id='2947420214' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.1853137' lon='-8.6018106' />
+  <node id='2947420215' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1846163' lon='-8.600785' />
+  <node id='2947497264' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18152276464' lon='-8.58445725872' />
+  <node id='2947497265' action='delete' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18079153309' lon='-8.58075870439' />
+  <node id='2947497267' action='delete' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18084669982' lon='-8.57961645733' />
+  <node id='2947497272' action='delete' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1790036' lon='-8.571575' />
+  <node id='2947497273' action='modify' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18075802001' lon='-8.58135119711' />
+  <node id='2947497274' action='modify' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18088941636' lon='-8.58209112208' />
+  <node id='2947497277' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18160838664' lon='-8.58402762986' />
+  <node id='2947497278' action='modify' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1783616344' lon='-8.56914684047' />
+  <node id='2947497279' action='modify' timestamp='2015-01-06T18:56:42Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27962439' lat='41.18155399562' lon='-8.58367977841' />
+  <node id='2947517421' action='modify' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.18176825827' lon='-8.62257562622' />
+  <node id='2947517422' action='modify' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18182760965' lon='-8.62133215194' />
+  <node id='2947517423' timestamp='2015-01-08T14:04:47Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1847153' lon='-8.6131835' />
+  <node id='2947517425' action='modify' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='3' changeset='31832862' lat='41.18219906868' lon='-8.62190418495' />
+  <node id='2947517427' timestamp='2015-01-08T14:04:48Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1842574' lon='-8.615223' />
+  <node id='2947517428' timestamp='2015-01-08T14:04:48Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1849086' lon='-8.6131433' />
+  <node id='2947517429' timestamp='2015-01-08T14:04:48Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1843371' lon='-8.6153083' />
+  <node id='2947524561' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1695241' lon='-8.6892489' />
+  <node id='2947524563' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1706443' lon='-8.6888162' />
+  <node id='2947524565' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1696017' lon='-8.6891959' />
+  <node id='2947524573' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1698972' lon='-8.6887934' />
+  <node id='2947524574' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1713838' lon='-8.6889426' />
+  <node id='2947524575' action='delete' timestamp='2015-01-08T14:04:48Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.17898819724' lon='-8.6529198417' />
+  <node id='2947524581' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1697087' lon='-8.688943' />
+  <node id='2947524589' action='modify' timestamp='2015-01-08T14:04:48Z' uid='2544982' user='Spec80_CAOP' visible='true' version='2' changeset='27997649' lat='41.1789782541' lon='-8.65300450571' />
+  <node id='2947527067' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1655897' lon='-8.6888234' />
+  <node id='2947527068' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1691447' lon='-8.6903714' />
+  <node id='2947527069' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1691135' lon='-8.6909363' />
+  <node id='2947527070' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1670826' lon='-8.6904271' />
+  <node id='2947527071' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1693334' lon='-8.689774' />
+  <node id='2947527072' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1686264' lon='-8.6909586' />
+  <node id='2947527075' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1683368' lon='-8.6909104' />
+  <node id='2947527076' action='delete' timestamp='2015-05-25T10:26:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1677907' lon='-8.6906192' />
+  <node id='2947527079' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1665889' lon='-8.6901627' />
+  <node id='2947527083' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1632992' lon='-8.6868222' />
+  <node id='2947527084' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1687579' lon='-8.6910583' />
+  <node id='2947527088' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1653129' lon='-8.6885348' />
+  <node id='2947527090' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1661115' lon='-8.6895169' />
+  <node id='2947527094' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1632006' lon='-8.6866586' />
+  <node id='2947527096' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1662827' lon='-8.6897173' />
+  <node id='2947527098' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1661024' lon='-8.6893496' />
+  <node id='2947527104' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1692757' lon='-8.6896966' />
+  <node id='2947527105' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1642023' lon='-8.6879456' />
+  <node id='2947527107' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1658086' lon='-8.6890165' />
+  <node id='2947527108' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1663851' lon='-8.6899435' />
+  <node id='2947527109' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1669038' lon='-8.6904438' />
+  <node id='2947566254' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1586486' lon='-8.6852105' />
+  <node id='2947566258' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1580997' lon='-8.6852471' />
+  <node id='2947566260' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1557033' lon='-8.6813013' />
+  <node id='2947566263' action='delete' timestamp='2018-12-30T22:50:31Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899956' lat='41.157998' lon='-8.6851773' />
+  <node id='2947566265' action='delete' timestamp='2015-05-25T10:26:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1591021' lon='-8.6855189' />
+  <node id='2947566280' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.160459' lon='-8.6861712' />
+  <node id='2947566282' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1630641' lon='-8.6864413' />
+  <node id='2947566285' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.15890290648' lon='-8.6878471688' />
+  <node id='2947566287' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1599365' lon='-8.6863084' />
+  <node id='2947566289' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1619955' lon='-8.6860892' />
+  <node id='2947566291' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1558143' lon='-8.6813966' />
+  <node id='2947566297' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1628492' lon='-8.6862528' />
+  <node id='2947566298' action='delete' timestamp='2015-05-25T10:26:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1583677' lon='-8.6851111' />
+  <node id='2947588612' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1507739' lon='-8.6771988' />
+  <node id='2947588613' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1534064' lon='-8.6793193' />
+  <node id='2947588616' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1535613' lon='-8.6795909' />
+  <node id='2947588617' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1510875' lon='-8.6776779' />
+  <node id='2947588619' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1505814' lon='-8.6769628' />
+  <node id='2947588626' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1512135' lon='-8.6778057' />
+  <node id='2947588628' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1554578' lon='-8.6809789' />
+  <node id='2947588629' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.15127016407' lon='-8.68000569222' />
+  <node id='2947589537' action='delete' timestamp='2018-12-30T22:14:52Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.1468121' lon='-8.6773795' />
+  <node id='2947589538' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.1477447' lon='-8.6749999' />
+  <node id='2947589544' action='delete' timestamp='2015-05-25T10:26:35Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.15293137529' lon='-8.68153087079' />
+  <node id='2947589546' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.1466348' lon='-8.6772341' />
+  <node id='2947605123' action='delete' timestamp='2015-05-25T10:26:36Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1476926' lon='-8.6748527' />
+  <node id='2947605126' action='delete' timestamp='2015-05-25T10:26:36Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.1500562' lon='-8.676433' />
+  <node id='2947605131' action='delete' timestamp='2018-12-30T22:14:53Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899367' lat='41.14496911277' lon='-8.6724079652' />
+  <node id='2947606334' action='delete' timestamp='2015-05-25T10:26:36Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31441045' lat='41.149498' lon='-8.6762057' />
+  <node id='2962499799' action='delete' timestamp='2018-01-19T03:03:43Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='55566809' lat='41.1733288' lon='-8.6899869' />
+  <node id='2964268644' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.14491233115' lon='-8.67078787767' />
+  <node id='2986300166' action='delete' timestamp='2021-06-13T21:11:15Z' uid='2107121' user='AntMadeira' visible='true' version='16' changeset='106297799' lat='41.1494512' lon='-8.6107884'>
+    <tag k='alt_name' v='Oporto' />
+    <tag k='capital' v='6' />
+    <tag k='int_name' v='Porto' />
+    <tag k='name' v='Porto' />
+    <tag k='name:ar' v='بورتو' />
+    <tag k='name:ckb' v='پۆرتۆ' />
+    <tag k='name:el' v='Πόρτο' />
+    <tag k='name:es' v='Oporto' />
+    <tag k='name:hu' v='Porto' />
+    <tag k='name:kn' v='ಪೋರ್ಟೊ' />
+    <tag k='name:lt' v='Portas' />
+    <tag k='name:ru' v='Порту' />
+    <tag k='name:sr' v='Порто' />
+    <tag k='name:uk' v='Порту' />
+    <tag k='name:zh-Hans' v='波尔图' />
+    <tag k='name:zh-Hant' v='波爾圖' />
+    <tag k='place' v='city' />
+    <tag k='population' v='237591' />
+    <tag k='population:date' v='2011' />
+    <tag k='wikidata' v='Q36433' />
+    <tag k='wikipedia' v='pt:Porto' />
+  </node>
+  <node id='3276818553' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1386908' lon='-8.5951267' />
+  <node id='3276818554' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1387272' lon='-8.5915286' />
+  <node id='3276818555' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.138902' lon='-8.6156035' />
+  <node id='3276818557' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1394367' lon='-8.5964645' />
+  <node id='3276818559' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1396367' lon='-8.5889949' />
+  <node id='3276818560' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1397954' lon='-8.6195272' />
+  <node id='3276819661' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31832862' lat='41.139832' lon='-8.597029' />
+  <node id='3276819662' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1403992' lon='-8.5873847' />
+  <node id='3276819664' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1409244' lon='-8.5992181' />
+  <node id='3276819665' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.140944' lon='-8.6039354' />
+  <node id='3276819667' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1410776' lon='-8.5864078' />
+  <node id='3276819668' timestamp='2015-01-08T14:04:27Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.141111' lon='-8.6000895' />
+  <node id='3276819669' timestamp='2015-01-08T14:04:28Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1411959' lon='-8.6214149' />
+  <node id='3276819670' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31832862' lat='41.1412044' lon='-8.6015608' />
+  <node id='3276819672' timestamp='2015-01-08T14:04:28Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1414986' lon='-8.5857883' />
+  <node id='3276819674' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31832862' lat='41.1418914' lon='-8.577905' />
+  <node id='3276819675' timestamp='2015-01-08T14:04:28Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1421532' lon='-8.5849783' />
+  <node id='3276819676' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31832862' lat='41.1422006' lon='-8.5791378' />
+  <node id='3276819677' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31832862' lat='41.1422839' lon='-8.5839702' />
+  <node id='3276819678' timestamp='2015-01-08T14:04:28Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.142358' lon='-8.5801802' />
+  <node id='3276819679' timestamp='2015-01-08T14:04:28Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1427111' lon='-8.6234545' />
+  <node id='3276819680' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.1428056' lon='-8.6610299' />
+  <node id='3276819681' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.1428081' lon='-8.6614597' />
+  <node id='3276819684' timestamp='2015-01-08T14:04:28Z' uid='2544982' user='Spec80_CAOP' visible='true' version='1' changeset='27997649' lat='41.1438094' lon='-8.6281601' />
+  <node id='3276819685' timestamp='2015-06-09T02:47:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='2' changeset='31832862' lat='41.1441425' lon='-8.6298132' />
+  <node id='3276819687' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.1448211' lon='-8.6520036' />
+  <node id='3276819691' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.1466874' lon='-8.6446325' />
+  <node id='3276819708' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.1514781' lon='-8.5578882' />
+  <node id='3276819711' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124109914' lat='41.151981' lon='-8.5573384' />
+  <node id='3544004229' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1679266' lon='-8.6906568' />
+  <node id='3544004235' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1680018' lon='-8.6906964' />
+  <node id='3544004236' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1680029' lon='-8.6906476' />
+  <node id='3544004240' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1680877' lon='-8.6905101' />
+  <node id='3544004245' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1680999' lon='-8.6902697' />
+  <node id='3544004247' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1682271' lon='-8.6902618' />
+  <node id='3544004248' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1682415' lon='-8.6907301' />
+  <node id='3544004251' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1682527' lon='-8.6905393' />
+  <node id='3544004255' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1682624' lon='-8.6908592' />
+  <node id='3544004262' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.168278' lon='-8.690323' />
+  <node id='3544004263' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1682801' lon='-8.6908112' />
+  <node id='3544004265' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1682883' lon='-8.6906942' />
+  <node id='3544004266' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1683021' lon='-8.691083' />
+  <node id='3544004268' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1683303' lon='-8.6910808' />
+  <node id='3544004272' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1683554' lon='-8.6909621' />
+  <node id='3544004274' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1683946' lon='-8.6909393' />
+  <node id='3544004277' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1684185' lon='-8.6909951' />
+  <node id='3544004279' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.168463' lon='-8.6909354' />
+  <node id='3544004283' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1685915' lon='-8.6911238' />
+  <node id='3544004287' action='delete' timestamp='2015-05-25T10:25:29Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1686439' lon='-8.6909954' />
+  <node id='3544004806' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1639446' lon='-8.6877762' />
+  <node id='3544004812' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1640364' lon='-8.6875946' />
+  <node id='3544004813' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1640366' lon='-8.687783' />
+  <node id='3544004815' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1640839' lon='-8.6878257' />
+  <node id='3544004817' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1641057' lon='-8.6878646' />
+  <node id='3544004820' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1641233' lon='-8.6877659' />
+  <node id='3544004822' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.164147' lon='-8.6879132' />
+  <node id='3544004825' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.164186' lon='-8.6878924' />
+  <node id='3544004827' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1642535' lon='-8.6881223' />
+  <node id='3544004828' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1642613' lon='-8.6880976' />
+  <node id='3544004837' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1643074' lon='-8.6882152' />
+  <node id='3544004838' action='delete' timestamp='2015-05-25T10:25:22Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1643091' lon='-8.6881639' />
+  <node id='3544004846' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1644224' lon='-8.6878855' />
+  <node id='3544004847' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.164425' lon='-8.6881696' />
+  <node id='3544004853' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1645011' lon='-8.6880172' />
+  <node id='3544004858' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1645613' lon='-8.6883048' />
+  <node id='3544004862' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1646504' lon='-8.6881669' />
+  <node id='3544004863' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1646573' lon='-8.6882456' />
+  <node id='3544004866' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1647788' lon='-8.6882652' />
+  <node id='3544004868' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1648146' lon='-8.6882456' />
+  <node id='3544004869' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1648369' lon='-8.6881607' />
+  <node id='3544004882' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.165222' lon='-8.6882942' />
+  <node id='3544004888' action='delete' timestamp='2015-05-25T10:25:23Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1654006' lon='-8.6885524' />
+  <node id='3544004889' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1654131' lon='-8.6885222' />
+  <node id='3544004891' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1655424' lon='-8.6887684' />
+  <node id='3544005082' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1517824' lon='-8.6779783' />
+  <node id='3544005084' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1525847' lon='-8.6785134' />
+  <node id='3544005085' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1526366' lon='-8.6786538' />
+  <node id='3544005088' action='modify' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1589347041' lon='-8.68801785021' />
+  <node id='3544005108' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690942' lon='-8.6904059' />
+  <node id='3544005112' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690991' lon='-8.6900285' />
+  <node id='3544005115' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691022' lon='-8.6903268' />
+  <node id='3544005127' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691314' lon='-8.6898666' />
+  <node id='3544005128' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691325' lon='-8.689941' />
+  <node id='3544005133' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691406' lon='-8.6899987' />
+  <node id='3544005134' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691414' lon='-8.6909468' />
+  <node id='3544005138' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691538' lon='-8.6897825' />
+  <node id='3544005141' action='delete' timestamp='2015-05-25T10:25:31Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691583' lon='-8.6900625' />
+  <node id='3544005145' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691688' lon='-8.6899394' />
+  <node id='3544005149' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.16918' lon='-8.6901759' />
+  <node id='3544005151' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1691942' lon='-8.6908888' />
+  <node id='3544005153' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1692062' lon='-8.6897063' />
+  <node id='3544005157' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1692617' lon='-8.6904864' />
+  <node id='3544005161' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1692941' lon='-8.6906093' />
+  <node id='3544005162' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1693712' lon='-8.6894481' />
+  <node id='3544005168' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1694795' lon='-8.689816' />
+  <node id='3544005171' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1695143' lon='-8.6897089' />
+  <node id='3544005172' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.169519' lon='-8.6898958' />
+  <node id='3544005173' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.169524' lon='-8.6896788' />
+  <node id='3544005177' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1695418' lon='-8.6898875' />
+  <node id='3544005180' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1695535' lon='-8.689749' />
+  <node id='3544005182' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1695604' lon='-8.6897037' />
+  <node id='3544005195' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1552847' lon='-8.6807508' />
+  <node id='3544005198' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553017' lon='-8.6809166' />
+  <node id='3544005199' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553097' lon='-8.6808164' />
+  <node id='3544005200' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553136' lon='-8.6809416' />
+  <node id='3544005206' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553603' lon='-8.6809635' />
+  <node id='3544005207' action='delete' timestamp='2015-05-25T10:25:13Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553614' lon='-8.6808421' />
+  <node id='3544005212' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553922' lon='-8.6809322' />
+  <node id='3544005213' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.155393' lon='-8.6811285' />
+  <node id='3544005214' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1553978' lon='-8.6810081' />
+  <node id='3544005218' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1554226' lon='-8.6812149' />
+  <node id='3544005221' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1554433' lon='-8.6812594' />
+  <node id='3544005225' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1554695' lon='-8.6811249' />
+  <node id='3544005229' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.15549' lon='-8.6810307' />
+  <node id='3544005231' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1554967' lon='-8.6811364' />
+  <node id='3544005232' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1555047' lon='-8.6811771' />
+  <node id='3544005233' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1555473' lon='-8.6811632' />
+  <node id='3544005236' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1555678' lon='-8.6811073' />
+  <node id='3544005237' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1555809' lon='-8.6812656' />
+  <node id='3544005241' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1556515' lon='-8.6813785' />
+  <node id='3544005243' action='delete' timestamp='2015-05-25T10:25:14Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1556569' lon='-8.6814284' />
+  <node id='3544005252' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1557575' lon='-8.6813784' />
+  <node id='3544005256' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1559293' lon='-8.6814834' />
+  <node id='3544005259' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1559759' lon='-8.6815702' />
+  <node id='3544005263' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.156162' lon='-8.6816122' />
+  <node id='3544005267' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1561996' lon='-8.6817969' />
+  <node id='3544005268' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1562186' lon='-8.6816987' />
+  <node id='3544005271' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1562878' lon='-8.6818214' />
+  <node id='3544005278' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.15511939372' lon='-8.68374154357' />
+  <node id='3544005284' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1567711' lon='-8.6823341' />
+  <node id='3544005285' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1567731' lon='-8.6824903' />
+  <node id='3544005287' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1569176' lon='-8.6825992' />
+  <node id='3544005289' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1569415' lon='-8.6826763' />
+  <node id='3544005290' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1569835' lon='-8.6826701' />
+  <node id='3544005291' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1570202' lon='-8.6827492' />
+  <node id='3544005294' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1571149' lon='-8.6827178' />
+  <node id='3544005297' action='delete' timestamp='2015-05-25T10:25:15Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1572136' lon='-8.6827847' />
+  <node id='3544005300' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1573189' lon='-8.6829574' />
+  <node id='3544005302' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1573367' lon='-8.6830673' />
+  <node id='3544005303' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1573711' lon='-8.6831128' />
+  <node id='3544005304' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1573899' lon='-8.6839816' />
+  <node id='3544005306' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1573972' lon='-8.6838727' />
+  <node id='3544005308' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574128' lon='-8.6842098' />
+  <node id='3544005313' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574301' lon='-8.6840531' />
+  <node id='3544005316' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.157435' lon='-8.6839127' />
+  <node id='3544005317' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574428' lon='-8.6838133' />
+  <node id='3544005320' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574496' lon='-8.6831091' />
+  <node id='3544005327' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574729' lon='-8.6835175' />
+  <node id='3544005328' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574764' lon='-8.6841572' />
+  <node id='3544005333' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574882' lon='-8.6839811' />
+  <node id='3544005334' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1574974' lon='-8.6835203' />
+  <node id='3544005338' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.15751' lon='-8.6836041' />
+  <node id='3544005339' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575115' lon='-8.6840393' />
+  <node id='3544005340' action='delete' timestamp='2015-05-25T10:25:16Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575127' lon='-8.6839833' />
+  <node id='3544005342' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575213' lon='-8.6834766' />
+  <node id='3544005343' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575299' lon='-8.6832618' />
+  <node id='3544005344' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575376' lon='-8.6835942' />
+  <node id='3544005348' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575505' lon='-8.6835439' />
+  <node id='3544005352' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1575744' lon='-8.6840698' />
+  <node id='3544005355' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1576011' lon='-8.6834844' />
+  <node id='3544005359' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1576104' lon='-8.6833237' />
+  <node id='3544005362' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1576404' lon='-8.6839914' />
+  <node id='3544005367' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.157663' lon='-8.6836686' />
+  <node id='3544005368' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1576662' lon='-8.6855077' />
+  <node id='3544005369' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1576724' lon='-8.6855796' />
+  <node id='3544005371' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1577032' lon='-8.6836721' />
+  <node id='3544005374' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1577586' lon='-8.6835709' />
+  <node id='3544005377' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1579574' lon='-8.6836717' />
+  <node id='3544005383' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1582209' lon='-8.6840562' />
+  <node id='3544005384' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1582893' lon='-8.6850269' />
+  <node id='3544005389' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1583255' lon='-8.6851127' />
+  <node id='3544005395' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1583986' lon='-8.6852408' />
+  <node id='3544005405' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1585188' lon='-8.6851561' />
+  <node id='3544005407' action='delete' timestamp='2015-05-25T10:25:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1585336' lon='-8.6852555' />
+  <node id='3544005414' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1586703' lon='-8.685263' />
+  <node id='3544005417' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1587717' lon='-8.685309' />
+  <node id='3544005420' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.158955' lon='-8.6852027' />
+  <node id='3544005429' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1591753' lon='-8.6857931' />
+  <node id='3544005431' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.159871' lon='-8.6861756' />
+  <node id='3544005437' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1600795' lon='-8.6863427' />
+  <node id='3544005438' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1600807' lon='-8.6862712' />
+  <node id='3544005442' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1601483' lon='-8.686488' />
+  <node id='3544005444' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1601692' lon='-8.6862934' />
+  <node id='3544005446' action='delete' timestamp='2015-05-25T10:25:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1601741' lon='-8.6864504' />
+  <node id='3544005453' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1602115' lon='-8.6864011' />
+  <node id='3544005458' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1602392' lon='-8.686254' />
+  <node id='3544005461' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1602598' lon='-8.6863485' />
+  <node id='3544005466' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1603943' lon='-8.6863063' />
+  <node id='3544005468' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1604055' lon='-8.6861976' />
+  <node id='3544005469' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1604145' lon='-8.6863137' />
+  <node id='3544005471' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1604223' lon='-8.6862606' />
+  <node id='3544005474' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1604467' lon='-8.6862809' />
+  <node id='3544005478' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.160614' lon='-8.6861285' />
+  <node id='3544005481' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1608552' lon='-8.6861673' />
+  <node id='3544005483' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1609317' lon='-8.6861378' />
+  <node id='3544005488' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1610196' lon='-8.6862067' />
+  <node id='3544005489' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1610268' lon='-8.6862631' />
+  <node id='3544005493' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1612883' lon='-8.6861788' />
+  <node id='3544005495' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1614857' lon='-8.6862646' />
+  <node id='3544005498' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1618191' lon='-8.6862205' />
+  <node id='3544005506' action='delete' timestamp='2015-05-25T10:25:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1623772' lon='-8.6860916' />
+  <node id='3544005518' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1629259' lon='-8.6866146' />
+  <node id='3544005521' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1629494' lon='-8.6867207' />
+  <node id='3544005523' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1629674' lon='-8.6866113' />
+  <node id='3544005526' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1629731' lon='-8.6867675' />
+  <node id='3544005535' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1630565' lon='-8.6867508' />
+  <node id='3544005540' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1631202' lon='-8.6866089' />
+  <node id='3544005542' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1631502' lon='-8.6867303' />
+  <node id='3544005543' action='delete' timestamp='2015-05-25T10:25:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1631537' lon='-8.6868323' />
+  <node id='3544005546' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1631601' lon='-8.6866095' />
+  <node id='3544005548' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1631751' lon='-8.6867587' />
+  <node id='3544005550' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1631825' lon='-8.6867662' />
+  <node id='3544005554' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1632712' lon='-8.686904' />
+  <node id='3544005555' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1632811' lon='-8.6867705' />
+  <node id='3544005557' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1633464' lon='-8.6868981' />
+  <node id='3544005558' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1633477' lon='-8.6872135' />
+  <node id='3544005559' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1633499' lon='-8.6872737' />
+  <node id='3544005560' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1633507' lon='-8.6870053' />
+  <node id='3544005565' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.163376' lon='-8.686942' />
+  <node id='3544005571' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.163421' lon='-8.6870605' />
+  <node id='3544005572' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1634271' lon='-8.6873045' />
+  <node id='3544005575' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1634645' lon='-8.6872091' />
+  <node id='3544005576' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1634736' lon='-8.6871841' />
+  <node id='3544005579' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1635038' lon='-8.6872115' />
+  <node id='3544005583' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1636142' lon='-8.6873304' />
+  <node id='3544005585' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1636216' lon='-8.6871751' />
+  <node id='3544005586' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1636218' lon='-8.6872559' />
+  <node id='3544005590' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1636585' lon='-8.6872313' />
+  <node id='3544005591' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1636717' lon='-8.6872496' />
+  <node id='3544005593' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1637006' lon='-8.6873757' />
+  <node id='3544005597' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1637245' lon='-8.687543' />
+  <node id='3544005601' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1637491' lon='-8.687423' />
+  <node id='3544005605' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1637746' lon='-8.6875911' />
+  <node id='3544005606' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.163775' lon='-8.6872981' />
+  <node id='3544005609' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1638026' lon='-8.6876955' />
+  <node id='3544005610' action='delete' timestamp='2015-05-25T10:25:21Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1638911' lon='-8.6877098' />
+  <node id='3544005615' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1657232' lon='-8.6887459' />
+  <node id='3544005617' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1657353' lon='-8.688918' />
+  <node id='3544005621' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.165775' lon='-8.6889128' />
+  <node id='3544005622' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1657795' lon='-8.6888642' />
+  <node id='3544005626' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1658473' lon='-8.6888694' />
+  <node id='3544005628' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1658578' lon='-8.6889154' />
+  <node id='3544005629' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1658612' lon='-8.6890832' />
+  <node id='3544005632' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1658877' lon='-8.6891572' />
+  <node id='3544005634' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1659051' lon='-8.6890137' />
+  <node id='3544005636' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1659294' lon='-8.6890585' />
+  <node id='3544005637' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.165931' lon='-8.6891391' />
+  <node id='3544005638' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1659611' lon='-8.6890628' />
+  <node id='3544005639' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1659687' lon='-8.689172' />
+  <node id='3544005644' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1659888' lon='-8.689225' />
+  <node id='3544005647' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660014' lon='-8.6891741' />
+  <node id='3544005651' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660084' lon='-8.689229' />
+  <node id='3544005655' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660339' lon='-8.6890773' />
+  <node id='3544005658' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660592' lon='-8.6892083' />
+  <node id='3544005662' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660744' lon='-8.6895393' />
+  <node id='3544005663' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660775' lon='-8.6892559' />
+  <node id='3544005664' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660778' lon='-8.689419' />
+  <node id='3544005667' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1660889' lon='-8.6898036' />
+  <node id='3544005675' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661008' lon='-8.6891018' />
+  <node id='3544005676' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661009' lon='-8.6897052' />
+  <node id='3544005685' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661243' lon='-8.689721' />
+  <node id='3544005690' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661371' lon='-8.689401' />
+  <node id='3544005693' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1655518' lon='-8.6885843' />
+  <node id='3544005699' action='delete' timestamp='2015-05-25T10:25:24Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1655873' lon='-8.6886761' />
+  <node id='3544005711' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1664599' lon='-8.6899945' />
+  <node id='3544005714' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1664668' lon='-8.6900458' />
+  <node id='3544005717' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1664782' lon='-8.689603' />
+  <node id='3544005718' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1664878' lon='-8.6896519' />
+  <node id='3544005721' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1665022' lon='-8.6899302' />
+  <node id='3544005722' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1665056' lon='-8.6900595' />
+  <node id='3544005724' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1665664' lon='-8.6903336' />
+  <node id='3544005729' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1666069' lon='-8.6903929' />
+  <node id='3544005731' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1666089' lon='-8.6902658' />
+  <node id='3544005734' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1666345' lon='-8.689987' />
+  <node id='3544005740' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1666581' lon='-8.6901073' />
+  <node id='3544005741' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1666596' lon='-8.6903828' />
+  <node id='3544005742' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1666753' lon='-8.6898719' />
+  <node id='3544005744' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1667135' lon='-8.6904622' />
+  <node id='3544005746' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1667492' lon='-8.6905196' />
+  <node id='3544005754' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1668291' lon='-8.6903444' />
+  <node id='3544005757' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1669036' lon='-8.690309' />
+  <node id='3544005759' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1669868' lon='-8.690222' />
+  <node id='3544005761' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1670125' lon='-8.6902627' />
+  <node id='3544005764' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1670471' lon='-8.6903606' />
+  <node id='3544005769' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1670721' lon='-8.6902655' />
+  <node id='3544005773' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1674475' lon='-8.6902124' />
+  <node id='3544005774' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1676398' lon='-8.6901709' />
+  <node id='3544005776' action='delete' timestamp='2015-05-25T10:25:27Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1677446' lon='-8.690374' />
+  <node id='3544005781' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1677608' lon='-8.6905231' />
+  <node id='3544005784' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1677691' lon='-8.6904243' />
+  <node id='3544005785' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1677695' lon='-8.6902342' />
+  <node id='3544005787' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1677763' lon='-8.6903409' />
+  <node id='3544005790' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1677978' lon='-8.6905565' />
+  <node id='3544005793' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661679' lon='-8.6893561' />
+  <node id='3544005795' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661794' lon='-8.6893784' />
+  <node id='3544005796' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661817' lon='-8.6897574' />
+  <node id='3544005798' action='delete' timestamp='2015-05-25T10:25:25Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1661977' lon='-8.6893161' />
+  <node id='3544005801' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.16621' lon='-8.6892662' />
+  <node id='3544005803' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1662297' lon='-8.6896748' />
+  <node id='3544005805' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1663158' lon='-8.6896251' />
+  <node id='3544005811' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1663447' lon='-8.6897049' />
+  <node id='3544005812' action='delete' timestamp='2015-05-25T10:25:26Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1663521' lon='-8.6895696' />
+  <node id='3544005818' action='delete' timestamp='2015-05-25T10:25:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1725217' lon='-8.6895804' />
+  <node id='3544005825' action='delete' timestamp='2015-05-25T10:25:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1726038' lon='-8.6895783' />
+  <node id='3544005830' action='delete' timestamp='2015-05-25T10:25:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.172651' lon='-8.689762' />
+  <node id='3544005839' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1727887' lon='-8.6898755' />
+  <node id='3544005843' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1728287' lon='-8.6897845' />
+  <node id='3544005845' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1729225' lon='-8.6898306' />
+  <node id='3544005848' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1729548' lon='-8.6899114' />
+  <node id='3544005853' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1730077' lon='-8.6899482' />
+  <node id='3544005854' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1730132' lon='-8.6898751' />
+  <node id='3544005857' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1730737' lon='-8.6898482' />
+  <node id='3544005864' action='delete' timestamp='2015-05-25T10:25:34Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1732885' lon='-8.6898869' />
+  <node id='3544005893' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1678194' lon='-8.6906161' />
+  <node id='3544005894' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1678282' lon='-8.6905191' />
+  <node id='3544005896' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1678335' lon='-8.6906586' />
+  <node id='3544005898' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1678514' lon='-8.6905583' />
+  <node id='3544005903' action='delete' timestamp='2015-05-25T10:25:28Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1678992' lon='-8.6905648' />
+  <node id='3544005996' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1687516' lon='-8.691289' />
+  <node id='3544006000' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1688078' lon='-8.6912577' />
+  <node id='3544006001' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1688142' lon='-8.6910975' />
+  <node id='3544006003' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1688425' lon='-8.6910123' />
+  <node id='3544006004' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1688472' lon='-8.6911564' />
+  <node id='3544006009' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1688955' lon='-8.6911595' />
+  <node id='3544006015' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690277' lon='-8.6904174' />
+  <node id='3544006017' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690366' lon='-8.6910776' />
+  <node id='3544006019' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690433' lon='-8.6904509' />
+  <node id='3544006021' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690678' lon='-8.690205' />
+  <node id='3544006027' action='delete' timestamp='2015-05-25T10:25:30Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1690914' lon='-8.6903426' />
+  <node id='3544006096' action='delete' timestamp='2015-05-25T10:25:32Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1717859' lon='-8.6891184' />
+  <node id='3544006103' action='delete' timestamp='2015-05-25T10:25:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1721143' lon='-8.6893798' />
+  <node id='3544006107' action='delete' timestamp='2015-05-25T10:25:33Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31441045' lat='41.1724225' lon='-8.6894706' />
+  <node id='3582223896' timestamp='2015-06-09T02:46:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.1396025' lon='-8.6105809' />
+  <node id='3582223899' timestamp='2015-06-09T02:46:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.1408704' lon='-8.5867128' />
+  <node id='3582223907' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.14349' lon='-8.6674821' />
+  <node id='3582223920' timestamp='2015-06-09T02:46:17Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.1454753' lon='-8.6332074' />
+  <node id='3582223923' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.1464631' lon='-8.6353474' />
+  <node id='3582223942' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124141914' lat='41.1473487' lon='-8.6403334' />
+  <node id='3582223966' timestamp='2015-06-09T02:46:18Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.1510334' lon='-8.5581618' />
+  <node id='3582223982' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124109914' lat='41.1569456' lon='-8.5546492' />
+  <node id='3582223986' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='4' changeset='124109914' lat='41.1581108' lon='-8.5544042' />
+  <node id='3582223988' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124109914' lat='41.16107563938' lon='-8.5618454656' />
+  <node id='3582223990' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124109914' lat='41.16198801878' lon='-8.56315563758' />
+  <node id='3582223991' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124109914' lat='41.1620805' lon='-8.5656523' />
+  <node id='3582224005' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='2' changeset='66555733' lat='41.17163856441' lon='-8.67905747998' />
+  <node id='3582224011' action='modify' timestamp='2019-01-23T01:59:21Z' uid='7150632' user='MIGU3L666' visible='true' version='2' changeset='66555733' lat='41.17437006913' lon='-8.67249451795' />
+  <node id='3582224015' action='modify' timestamp='2015-06-09T02:46:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.17614981075' lon='-8.5660169153' />
+  <node id='3582224021' action='modify' timestamp='2015-06-09T02:46:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.17779386887' lon='-8.66786799222' />
+  <node id='3582224028' action='modify' timestamp='2015-06-09T02:46:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.17960464732' lon='-8.56994503534' />
+  <node id='3582224030' action='modify' timestamp='2015-06-09T02:46:19Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.17965305236' lon='-8.62935935633' />
+  <node id='3582224043' action='modify' timestamp='2015-06-09T02:46:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.17988330265' lon='-8.62719145365' />
+  <node id='3582224069' action='modify' timestamp='2015-06-09T02:46:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.18136392391' lon='-8.58338807114' />
+  <node id='3582224079' timestamp='2015-06-09T02:46:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.1853781' lon='-8.6111606' />
+  <node id='3582224080' timestamp='2015-06-09T02:46:20Z' uid='2330803' user='ViriatoLusitano_import' visible='true' version='1' changeset='31832862' lat='41.1853991' lon='-8.6111646' />
+  <node id='4422428627' action='delete' timestamp='2018-12-30T22:50:31Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='65899956' lat='41.1586026' lon='-8.6844762' />
+  <node id='4438341269' action='delete' timestamp='2018-12-30T22:50:31Z' uid='7150632' user='MIGU3L666' visible='true' version='2' changeset='65899956' lat='41.1585295' lon='-8.6844726' />
+  <node id='4438341270' action='delete' timestamp='2018-12-30T22:50:31Z' uid='7150632' user='MIGU3L666' visible='true' version='2' changeset='65899956' lat='41.1583859' lon='-8.6846583' />
+  <node id='4438344540' action='delete' timestamp='2018-12-30T22:14:52Z' uid='7150632' user='MIGU3L666' visible='true' version='4' changeset='65899367' lat='41.14592232352' lon='-8.67980659383' />
+  <node id='5251220328' action='delete' timestamp='2018-12-30T22:14:52Z' uid='7150632' user='MIGU3L666' visible='true' version='4' changeset='65899367' lat='41.1473932' lon='-8.6756654' />
+  <node id='5251220329' action='delete' timestamp='2018-05-21T23:27:25Z' uid='7150632' user='MIGU3L666' visible='true' version='3' changeset='59165573' lat='41.1472923' lon='-8.6746385' />
+  <node id='5251220333' action='delete' timestamp='2017-11-28T06:27:01Z' uid='31231' user='Andre68' visible='true' version='2' changeset='54139833' lat='41.1476986' lon='-8.6748943' />
+  <node id='5312393467' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.1581510765' lon='-8.56082218644' />
+  <node id='5312417332' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='3' changeset='124109914' lat='41.1535276' lon='-8.5546915' />
+  <node id='5312417338' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.156489' lon='-8.5585115' />
+  <node id='5902212276' action='delete' timestamp='2021-01-01T15:49:39Z' uid='12363633' user='PedroMTG' visible='true' version='2' changeset='96777319' lat='41.1528231' lon='-8.6788234' />
+  <node id='5902212283' action='delete' timestamp='2021-01-01T15:49:39Z' uid='12363633' user='PedroMTG' visible='true' version='2' changeset='96777319' lat='41.1529714' lon='-8.678938' />
+  <node id='6094457279' action='modify' timestamp='2018-11-27T04:35:16Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='64920175' lat='41.17303315209' lon='-8.67438541431' />
+  <node id='6173735386' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='65899367' lat='41.1466789' lon='-8.677407' />
+  <node id='6173735387' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='65899367' lat='41.1473436' lon='-8.6757496' />
+  <node id='6173735388' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='65899367' lat='41.1473014' lon='-8.6758551' />
+  <node id='6173735389' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='65899367' lat='41.1472895' lon='-8.6759083' />
+  <node id='6173735390' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='65899367' lat='41.1473537' lon='-8.6757569' />
+  <node id='6173735391' action='delete' timestamp='2018-12-30T22:14:51Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='65899367' lat='41.14661450516' lon='-8.67880331187' />
+  <node id='6228577710' action='modify' timestamp='2019-01-23T01:59:12Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='66555733' lat='41.17376495295' lon='-8.6834928158' />
+  <node id='6228577711' action='modify' timestamp='2019-01-23T01:59:12Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='66555733' lat='41.17171531571' lon='-8.67822029297' />
+  <node id='6228577712' action='modify' timestamp='2019-01-23T01:59:12Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='66555733' lat='41.17498129139' lon='-8.67151391795' />
+  <node id='6228577713' action='modify' timestamp='2019-01-23T01:59:12Z' uid='7150632' user='MIGU3L666' visible='true' version='1' changeset='66555733' lat='41.17710666487' lon='-8.66818792183' />
+  <node id='6353011753' timestamp='2019-03-21T20:52:06Z' uid='8430705' user='anne choukroun' visible='true' version='1' changeset='68387919' lat='41.1832667' lon='-8.6172706' />
+  <node id='6353144458' timestamp='2019-03-21T22:01:20Z' uid='8430705' user='anne choukroun' visible='true' version='1' changeset='68389831' lat='41.1851856' lon='-8.6115416' />
+  <node id='7714007840' action='modify' timestamp='2020-07-14T14:26:04Z' uid='4042178' user='PedroM029' visible='true' version='1' changeset='87983424' lat='41.17415527879' lon='-8.68776380728' />
+  <node id='8262464738' action='modify' timestamp='2020-12-26T19:31:56Z' uid='12363633' user='PedroMTG' visible='true' version='1' changeset='96463698' lat='41.17853638926' lon='-8.65532704277' />
+  <node id='8342795847' action='delete' timestamp='2021-01-20T16:52:08Z' uid='12363633' user='PedroMTG' visible='true' version='1' changeset='97850180' lat='41.1809484' lon='-8.6493306' />
+  <node id='8342795848' action='modify' timestamp='2021-01-20T16:52:08Z' uid='12363633' user='PedroMTG' visible='true' version='1' changeset='97850180' lat='41.18096030704' lon='-8.64954842547' />
+  <node id='8342795876' action='delete' timestamp='2021-01-20T16:52:08Z' uid='12363633' user='PedroMTG' visible='true' version='1' changeset='97850180' lat='41.1811473' lon='-8.648996' />
+  <node id='8342795877' action='delete' timestamp='2021-01-20T16:52:08Z' uid='12363633' user='PedroMTG' visible='true' version='1' changeset='97850180' lat='41.1810473' lon='-8.6491642' />
+  <node id='9726712293' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.1544365' lon='-8.5546798' />
+  <node id='9726988731' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.15679769102' lon='-8.55892665872' />
+  <node id='9726988733' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.1572019105' lon='-8.558786566' />
+  <node id='9726988735' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.15810690241' lon='-8.55795265194' />
+  <node id='9726988737' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.1580704' lon='-8.5577131' />
+  <node id='9726988739' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.15938061787' lon='-8.55560742522' />
+  <node id='9726988743' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.15974788224' lon='-8.55474885922' />
+  <node id='9799141332' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='2' changeset='124109914' lat='41.1581421' lon='-8.5539485' />
+  <node id='9803943379' action='modify' timestamp='2022-06-08T13:27:47Z' uid='15895779' user='MRibz' visible='true' version='1' changeset='122118879' lat='41.16466041279' lon='-8.56555614566' />
+  <node id='9803943380' action='modify' timestamp='2022-06-08T13:27:47Z' uid='15895779' user='MRibz' visible='true' version='1' changeset='122118879' lat='41.1661696289' lon='-8.56611620464' />
+  <node id='9913156973' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1518137' lon='-8.5574607' />
+  <node id='9913156975' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1525422' lon='-8.556711' />
+  <node id='9913156976' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1526082' lon='-8.5565879' />
+  <node id='9913156977' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1526936' lon='-8.5563038' />
+  <node id='9913156978' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1528724' lon='-8.5559399' />
+  <node id='9913156979' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1530113' lon='-8.5552894' />
+  <node id='9913156980' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1529459' lon='-8.5549451' />
+  <node id='9913156981' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1532077' lon='-8.5547375' />
+  <node id='9913156982' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1546655' lon='-8.5544409' />
+  <node id='9913156983' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1549386' lon='-8.5543214' />
+  <node id='9913156984' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1555539' lon='-8.5544205' />
+  <node id='9913156985' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1558639' lon='-8.554505' />
+  <node id='9913156986' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1564109' lon='-8.5546733' />
+  <node id='9913156987' action='delete' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.1582045' lon='-8.5526133' />
+  <node id='9913156989' action='modify' timestamp='2022-07-26T19:07:08Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124109914' lat='41.16016770766' lon='-8.55338592961' />
+  <node id='9914822021' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1417542' lon='-8.5743067' />
+  <node id='9914822022' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14300890638' lon='-8.57421392134' />
+  <node id='9914822023' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1422554' lon='-8.5737666' />
+  <node id='9914822024' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1417351' lon='-8.5732494' />
+  <node id='9914822025' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1422731' lon='-8.5728296' />
+  <node id='9914822026' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14216739962' lon='-8.57264182622' />
+  <node id='9914822027' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14271294067' lon='-8.57197869297' />
+  <node id='9914822028' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14384033806' lon='-8.57314764177' />
+  <node id='9914822029' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14397444064' lon='-8.57292012473' />
+  <node id='9914822030' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1442494' lon='-8.5718151' />
+  <node id='9914822031' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.144328' lon='-8.5715521' />
+  <node id='9914822032' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1447537' lon='-8.5708581' />
+  <node id='9914822033' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1448063' lon='-8.5707125' />
+  <node id='9914822034' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1447838' lon='-8.5702138' />
+  <node id='9914822035' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14460644826' lon='-8.56981894516' />
+  <node id='9914822036' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1450466' lon='-8.5699878' />
+  <node id='9914822037' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1453198' lon='-8.5700625' />
+  <node id='9914822038' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1453982' lon='-8.5700325' />
+  <node id='9914822039' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1459602' lon='-8.5696502' />
+  <node id='9914822040' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1469477' lon='-8.5691646' />
+  <node id='9914822041' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1473134' lon='-8.5690211' />
+  <node id='9914822042' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1473643' lon='-8.5689576' />
+  <node id='9914822043' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1474131' lon='-8.5687693' />
+  <node id='9914822044' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.147338' lon='-8.5686017' />
+  <node id='9914822045' action='modify' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.14546754198' lon='-8.5679470675' />
+  <node id='9914822046' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1468253' lon='-8.5680267' />
+  <node id='9914822047' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1467875' lon='-8.5673104' />
+  <node id='9914822048' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1465135' lon='-8.5667083' />
+  <node id='9914822049' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1462311' lon='-8.5666083' />
+  <node id='9914822050' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1462179' lon='-8.5665161' />
+  <node id='9914822051' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1463892' lon='-8.5661779' />
+  <node id='9914822052' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1464301' lon='-8.5656351' />
+  <node id='9914822053' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1464717' lon='-8.5654204' />
+  <node id='9914822054' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1467417' lon='-8.5652093' />
+  <node id='9914822055' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1469469' lon='-8.5655584' />
+  <node id='9914822056' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1470789' lon='-8.5656869' />
+  <node id='9914822057' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1466306' lon='-8.5641499' />
+  <node id='9914822058' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1464728' lon='-8.563823' />
+  <node id='9914822059' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1463678' lon='-8.5636888' />
+  <node id='9914822060' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.146732' lon='-8.5633792' />
+  <node id='9914822061' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1470297' lon='-8.5632045' />
+  <node id='9914822062' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1473112' lon='-8.5631197' />
+  <node id='9914822063' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1474547' lon='-8.562972' />
+  <node id='9914822064' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1476541' lon='-8.56284' />
+  <node id='9914822065' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1477811' lon='-8.5626674' />
+  <node id='9914822066' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1481075' lon='-8.5624373' />
+  <node id='9914822067' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1485454' lon='-8.5624276' />
+  <node id='9914822068' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1486644' lon='-8.5624782' />
+  <node id='9914822069' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1488311' lon='-8.5623708' />
+  <node id='9914822070' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1493062' lon='-8.5624326' />
+  <node id='9914822071' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1494584' lon='-8.5624089' />
+  <node id='9914822072' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1496305' lon='-8.5623' />
+  <node id='9914822073' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.149696' lon='-8.5621595' />
+  <node id='9914822074' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1498247' lon='-8.5615409' />
+  <node id='9914822075' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1497581' lon='-8.5612205' />
+  <node id='9914822076' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1496389' lon='-8.5608879' />
+  <node id='9914822077' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1495874' lon='-8.5608165' />
+  <node id='9914822078' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1495823' lon='-8.5606671' />
+  <node id='9914822079' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1496111' lon='-8.5605819' />
+  <node id='9914822080' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1503108' lon='-8.5595977' />
+  <node id='9914822081' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1503583' lon='-8.5594129' />
+  <node id='9914822082' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1503824' lon='-8.5589693' />
+  <node id='9914822083' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1504892' lon='-8.5587091' />
+  <node id='9914822084' action='delete' timestamp='2022-07-27T13:52:22Z' uid='1963239' user='ViriatoLusitano' visible='true' version='1' changeset='124141914' lat='41.1507318' lon='-8.5584225' />
+  <node id='9993367447' timestamp='2022-09-01T18:20:49Z' uid='16642036' user='Kadubei' visible='true' version='1' changeset='125667346' lat='41.1401682' lon='-8.6201159' />
+  <way id='291205755' action='modify' timestamp='2023-03-05T12:25:45Z' uid='1963239' user='ViriatoLusitano' visible='true' version='8' changeset='133323009'>
+    <nd ref='2582230638' />
+    <nd ref='2582230641' />
+    <nd ref='2582230642' />
+    <nd ref='6228577713' />
+    <nd ref='3582224021' />
+    <nd ref='2575082573' />
+    <nd ref='2575082567' />
+    <nd ref='2575082590' />
+    <nd ref='2575082570' />
+    <nd ref='2575082586' />
+    <nd ref='2575082589' />
+    <nd ref='2575082579' />
+    <nd ref='-102286' />
+    <nd ref='2575082578' />
+    <nd ref='2575082564' />
+    <nd ref='2575082580' />
+    <nd ref='2575082587' />
+    <nd ref='2575082585' />
+    <nd ref='-102304' />
+    <nd ref='8262464738' />
+    <nd ref='-102309' />
+    <nd ref='-102318' />
+    <nd ref='2947524589' />
+    <nd ref='-102339' />
+    <nd ref='-102346' />
+    <nd ref='-102352' />
+    <nd ref='2575056858' />
+    <nd ref='8342795848' />
+    <nd ref='2575056879' />
+    <nd ref='-102363' />
+    <nd ref='2575056885' />
+    <nd ref='2575056898' />
+    <nd ref='2575056910' />
+    <nd ref='2575056865' />
+    <nd ref='2575056871' />
+    <nd ref='2575056864' />
+    <nd ref='-102389' />
+    <nd ref='-102398' />
+    <nd ref='-102408' />
+    <nd ref='2575056907' />
+    <nd ref='2575056892' />
+    <nd ref='2575056909' />
+    <nd ref='3582224030' />
+    <nd ref='3582224043' />
+    <nd ref='-102420' />
+    <nd ref='-102430' />
+    <nd ref='-102441' />
+    <nd ref='2947517421' />
+    <nd ref='-102449' />
+    <nd ref='-102460' />
+    <nd ref='-102468' />
+    <nd ref='2947517425' />
+    <nd ref='2947517422' />
+    <nd ref='-102481' />
+    <nd ref='2583948497' />
+    <nd ref='2583948499' />
+    <nd ref='6353011753' />
+    <nd ref='2583948489' />
+    <nd ref='2583948491' />
+    <nd ref='2583946060' />
+    <nd ref='2947517429' />
+    <nd ref='2947517427' />
+    <nd ref='2583946066' />
+    <nd ref='2583946061' />
+    <nd ref='2583946065' />
+    <nd ref='2583946067' />
+    <nd ref='2583946062' />
+    <nd ref='2583946059' />
+    <nd ref='2583946068' />
+    <nd ref='2947517423' />
+    <nd ref='2947517428' />
+    <nd ref='2583930779' />
+    <nd ref='2583930772' />
+    <nd ref='2583930791' />
+    <nd ref='2583930782' />
+    <nd ref='6353144458' />
+    <nd ref='2583930774' />
+    <nd ref='3582224080' />
+    <nd ref='3582224079' />
+    <nd ref='2583930794' />
+    <nd ref='2583930776' />
+    <nd ref='2947420207' />
+    <nd ref='2583930785' />
+    <nd ref='2583930761' />
+    <nd ref='2947420212' />
+    <nd ref='2947420204' />
+    <nd ref='2947420198' />
+    <nd ref='2947420197' />
+    <nd ref='2947420209' />
+    <nd ref='2947420201' />
+    <nd ref='2583924932' />
+    <nd ref='2583924939' />
+    <nd ref='2947420208' />
+    <nd ref='2947420214' />
+    <nd ref='2947420215' />
+    <nd ref='2947420200' />
+    <nd ref='2947420210' />
+    <nd ref='2947420203' />
+    <nd ref='2583924941' />
+    <nd ref='-102512' />
+    <nd ref='2583924936' />
+    <nd ref='2583924933' />
+    <nd ref='-102518' />
+    <nd ref='-102524' />
+    <nd ref='-102531' />
+    <nd ref='-102539' />
+    <nd ref='-102544' />
+    <nd ref='-102555' />
+    <nd ref='-102568' />
+    <nd ref='2583924934' />
+    <nd ref='2583924930' />
+    <nd ref='2583924929' />
+    <nd ref='2583924937' />
+    <nd ref='2583924928' />
+    <nd ref='2583924940' />
+    <nd ref='2583924923' />
+    <nd ref='2583924925' />
+    <nd ref='2947497264' />
+    <nd ref='2947497277' />
+    <nd ref='2947497279' />
+    <nd ref='3582224069' />
+    <nd ref='2947497274' />
+    <nd ref='2947497273' />
+    <nd ref='2583924938' />
+    <nd ref='2583924946' />
+    <nd ref='2583877562' />
+    <nd ref='2583877566' />
+    <nd ref='2583877565' />
+    <nd ref='-102590' />
+    <nd ref='-102593' />
+    <nd ref='-102601' />
+    <nd ref='-102605' />
+    <nd ref='3582224028' />
+    <nd ref='2583888911' />
+    <nd ref='2947497278' />
+    <nd ref='2583877616' />
+    <nd ref='3582224015' />
+    <nd ref='2583877544' />
+    <nd ref='2583877614' />
+    <nd ref='2583877590' />
+    <nd ref='2583877617' />
+    <nd ref='2583877621' />
+    <nd ref='-102628' />
+    <nd ref='2583877581' />
+    <nd ref='-102645' />
+    <nd ref='2583877559' />
+    <nd ref='2583877552' />
+    <nd ref='2583877568' />
+    <nd ref='2583877538' />
+    <nd ref='2583877560' />
+    <nd ref='2583877550' />
+    <nd ref='-102656' />
+    <nd ref='-102664' />
+    <nd ref='-102668' />
+    <nd ref='-102676' />
+    <nd ref='2583877545' />
+    <nd ref='2583877600' />
+    <nd ref='2583877624' />
+    <nd ref='2583877542' />
+    <nd ref='2583877607' />
+    <nd ref='2583877585' />
+    <nd ref='-102711' />
+    <nd ref='2583877598' />
+    <nd ref='9803943380' />
+    <nd ref='2583877595' />
+    <nd ref='9803943379' />
+    <nd ref='2583877604' />
+    <nd ref='2583877603' />
+    <nd ref='3582223990' />
+    <nd ref='3582223988' />
+    <nd ref='-102731' />
+    <nd ref='5312393467' />
+    <nd ref='9726988731' />
+    <nd ref='9726988733' />
+    <nd ref='9726988735' />
+    <nd ref='9726988739' />
+    <nd ref='9726988743' />
+    <nd ref='9913156989' />
+    <nd ref='2946651584' />
+    <nd ref='9913156983' />
+    <nd ref='9726712293' />
+    <nd ref='9913156980' />
+    <nd ref='3582223966' />
+    <nd ref='9914822079' />
+    <nd ref='9914822069' />
+    <nd ref='9914822059' />
+    <nd ref='9914822053' />
+    <nd ref='9914822045' />
+    <nd ref='9914822035' />
+    <nd ref='-102859' />
+    <nd ref='9914822029' />
+    <nd ref='9914822028' />
+    <nd ref='9914822027' />
+    <nd ref='9914822026' />
+    <nd ref='9914822025' />
+    <nd ref='9914822022' />
+    <nd ref='2946469901' />
+    <nd ref='2946469897' />
+    <nd ref='3276819674' />
+    <nd ref='3276819676' />
+    <nd ref='3276819678' />
+    <nd ref='2946469911' />
+    <nd ref='3276819677' />
+    <nd ref='3276819675' />
+    <nd ref='3276819672' />
+    <nd ref='3276819667' />
+    <nd ref='3582223899' />
+    <nd ref='3276819662' />
+    <nd ref='2946236051' />
+    <nd ref='3276818559' />
+    <nd ref='2946236049' />
+    <nd ref='3276818554' />
+    <nd ref='2946236050' />
+    <nd ref='3276818553' />
+    <nd ref='3276818557' />
+    <nd ref='3276819661' />
+    <nd ref='2946236052' />
+    <nd ref='2946232239' />
+    <nd ref='3276819664' />
+    <nd ref='3276819668' />
+    <nd ref='2946232238' />
+    <nd ref='3276819670' />
+    <nd ref='3276819665' />
+    <nd ref='2946224783' />
+    <nd ref='3582223896' />
+    <nd ref='2946224786' />
+    <nd ref='3276818555' />
+    <nd ref='2946224779' />
+    <nd ref='3276818560' />
+    <nd ref='2946224781' />
+    <nd ref='9993367447' />
+    <nd ref='3276819669' />
+    <nd ref='3276819679' />
+    <nd ref='2946224784' />
+    <nd ref='3276819684' />
+    <nd ref='3276819685' />
+    <nd ref='2946224780' />
+    <nd ref='3582223920' />
+    <nd ref='3582223923' />
+    <nd ref='2946222593' />
+    <nd ref='2946222588' />
+    <nd ref='3582223942' />
+    <nd ref='2946222594' />
+    <nd ref='3276819691' />
+    <nd ref='2946222590' />
+    <nd ref='2946222585' />
+    <nd ref='3276819687' />
+    <nd ref='2946222584' />
+    <nd ref='2964268644' />
+    <nd ref='311624271' />
+    <nd ref='1675107571' />
+    <nd ref='2867753317' />
+    <nd ref='1675107581' />
+    <nd ref='3544005088' />
+    <nd ref='-101983' />
+    <nd ref='-101961' />
+    <nd ref='-101790' />
+    <nd ref='2582239816' />
+    <nd ref='7714007840' />
+    <nd ref='-102255' />
+    <nd ref='2582239808' />
+    <nd ref='2582239819' />
+    <nd ref='6228577710' />
+    <nd ref='2582239781' />
+    <nd ref='2582239811' />
+    <nd ref='2582239788' />
+    <nd ref='3582224005' />
+    <nd ref='2582239806' />
+    <nd ref='6228577711' />
+    <nd ref='2582239796' />
+    <nd ref='2582239809' />
+    <nd ref='6094457279' />
+    <nd ref='3582224011' />
+    <nd ref='2582234555' />
+    <nd ref='6228577712' />
+    <nd ref='-102270' />
+    <nd ref='2582234559' />
+    <nd ref='2582234550' />
+    <nd ref='2582234557' />
+    <nd ref='2582230638' />
+    <tag k='admin_level' v='7' />
+    <tag k='border_type' v='município' />
+    <tag k='boundary' v='administrative' />
+    <tag k='source' v='DGT - CAOP 2022' />
+  </way>
+  <relation id='3372453' action='modify' timestamp='2023-03-05T12:26:54Z' uid='1963239' user='ViriatoLusitano' visible='true' version='83' changeset='133323027'>
+    <member type='way' ref='291205755' role='outer' />
+    <tag k='admin_level' v='7' />
+    <tag k='border_type' v='município' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Porto' />
+    <tag k='name:ar' v='بورتو' />
+    <tag k='name:es' v='Oporto' />
+    <tag k='nat_ref' v='PRT' />
+    <tag k='official_name' v='Município do Porto' />
+    <tag k='official_name:es' v='Municipio de Oporto' />
+    <tag k='population' v='231828' />
+    <tag k='population:date' v='2021' />
+    <tag k='ref:ine' v='1312' />
+    <tag k='source' v='DGT - CAOP 2022' />
+    <tag k='start_date' v='1123' />
+    <tag k='type' v='boundary' />
+    <tag k='website' v='http://www.cm-porto.pt/' />
+    <tag k='wikidata' v='Q36433' />
+    <tag k='wikipedia' v='pt:Porto' />
+  </relation>
+</osm>
