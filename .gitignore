@@ -10,7 +10,6 @@ porto-armis-shape.taz.xml
 porto-geo-fixed.*
 porto-geo.*
 porto-fixed.*
-porto.*.xml
 background/satellite/tiles
 porto-boundary.poly
 porto.jpeg
