@@ -17,7 +17,7 @@ jobs:
     - name: Download OSM data
       uses: dawidd6/action-download-artifact@v2.27.0
       with:
-        workflow: Pipeline
+        workflow: pipeline.yml
         github_token: ${{secrets.GITHUB_TOKEN}}
         name: porto-osm
         path: porto-unbounded.osm
