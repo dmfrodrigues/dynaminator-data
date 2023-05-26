@@ -27,7 +27,6 @@ jobs:
         workflow: pipeline.yml
         github_token: ${{secrets.GITHUB_TOKEN}}
         name: porto-osm
-        path: porto-unbounded.osm
 
     - name: Build
       run: |
