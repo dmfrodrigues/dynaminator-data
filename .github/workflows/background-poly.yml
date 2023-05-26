@@ -5,6 +5,9 @@ on:
 
 permissions: read-all
 
+env:
+  SUMO_HOME: /usr/share/sumo
+
 jobs:
   build:
     runs-on: ubuntu-latest

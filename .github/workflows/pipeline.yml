@@ -3,6 +3,9 @@ name: Pipeline
 on:
   push
 
+env:
+  SUMO_HOME: /usr/share/sumo
+
 jobs:
   build:
     runs-on: ubuntu-latest
