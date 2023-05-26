@@ -101,4 +101,4 @@ porto-armis-shape.taz.xml: armis/porto-armis.net.xml armis/porto-armis.taz.xml
 OSM_DATE=$(shell date -u --iso-8601=seconds)
 
 porto-unbounded.osm: | overpass-request.txt
-	./overpass-request.py $< ${OSM_DATE} $@
+	./overpass-request.py $| ${OSM_DATE} $@
