@@ -31,6 +31,7 @@ jobs:
 
     - name: Build
       run: |
+        ls -la
         make -C background/osm
 
     - name: Upload background
