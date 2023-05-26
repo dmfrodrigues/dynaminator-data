@@ -1,0 +1,31 @@
+name: Background poly
+
+on:
+  workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive
+
+    - name: Download OSM data
+      uses: dawidd6/action-download-artifact@v2.27.0
+      with:
+        workflow: Pipeline
+        name: porto-osm
+        path: porto-unbounded.osm
+
+    - name: Build
+      run: |
+        make -C background/osm
+
+    - name: Upload background
+      uses: actions/upload-artifact@v2
+      with:
+        name: porto-background-poly
+        path: background/osm/porto.poly.xml
+    
