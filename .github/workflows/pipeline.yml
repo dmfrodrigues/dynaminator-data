@@ -20,6 +20,26 @@ jobs:
           osmctools osmosis \
           sumo-tools
 
+    - name: Get OSM data
+      run: |
+        make porto-unbounded.osm
+
+    - name: Upload OSM
+      uses: actions/upload-artifact@v2
+      with:
+        name: porto-osm
+        path: porto-unbounded.osm
+
     - name: Build
       run: |
         make
+    
+    - name: Upload network
+      uses: actions/upload-artifact@v2
+      with:
+        name: porto-sumo
+        path: porto.net.xml
+        
+    - name: Check TAZ validity
+      run: |
+        ./checkTAZValidity.py porto.net.xml porto.taz.xml 
