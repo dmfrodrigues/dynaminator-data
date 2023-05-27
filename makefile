@@ -98,7 +98,7 @@ porto.net.xml: porto-osm-geo.net.xml diff.con.xml diff.edg.xml diff.nod.xml diff
 porto-armis-shape.taz.xml: armis/porto-armis.net.xml armis/porto-armis.taz.xml
 	./addShapeToTAZ.py $? > $@
 
-OSM_DATE=$(shell date -u --iso-8601=seconds)
+OSM_DATE ?= $(shell date -u --iso-8601=seconds)
 
 porto-unbounded.osm: | overpass-request.txt
 	./overpass-request.py $| ${OSM_DATE} $@

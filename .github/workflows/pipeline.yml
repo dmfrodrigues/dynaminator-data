@@ -15,6 +15,10 @@ jobs:
       with:
         submodules: recursive
 
+    - name: Get commit datetime
+      run: |
+        echo "OSM_DATE=$(git show -s --format=%cI)" >> $GITHUB_ENV
+
     - name: Setup
       run: |
         sudo add-apt-repository ppa:sumo/stable
