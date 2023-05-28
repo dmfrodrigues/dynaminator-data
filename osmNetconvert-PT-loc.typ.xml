@@ -11,9 +11,9 @@
     <type id="highway.secondary_link" numLanes="1" speed="13.89" priority="6"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
     <type id="highway.tertiary_link"  numLanes="1" speed="13.89" priority="5"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
 
-    <type id="highway.residential"    numLanes="1" speed="13.89" priority="4"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
-    <type id="highway.unclassified"   numLanes="1" speed="13.89" priority="3"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
+    <type id="highway.residential"    numLanes="1" speed="8.33" priority="4"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
+    <type id="highway.unclassified"   numLanes="1" speed="8.33" priority="3"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
     <type id="highway.living_street"  numLanes="1" speed="5.56"  priority="2"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
-    <type id="highway.unsurfaced"     numLanes="1" speed="13.89"  priority="1"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
-    <type id="highway.service"        numLanes="1" speed="13.89"  priority="1"  oneway="false" allow="delivery pedestrian bicycle"/>
+    <type id="highway.unsurfaced"     numLanes="1" speed="8.33"  priority="1"  oneway="false" disallow="rail rail_urban rail_electric rail_fast tram ship"/>
+    <type id="highway.service"        numLanes="1" speed="8.33"  priority="1"  oneway="false" allow="delivery pedestrian bicycle"/>
 </types>
