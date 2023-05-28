@@ -2,22 +2,6 @@ all: porto.net.xml porto.taz.xml
 
 OSM2POLY=openstreetmap/svn-archive/osm2poly.pl
 
-NETCONVERT_OPTIONS=\
-	--junctions.join --tls.guess-signals --tls.join --tls.default-type actuated \
-	--remove-edges.by-type highway.unsurfaced,highway.living_street,highway.services \
-	--remove-edges.isolated \
-	--osm.turn-lanes \
-	--osm.lane-access \
-	--roundabouts.guess true \
-	--no-turnarounds.except-deadend \
-	--keep-edges.by-vclass passenger \
-	--geometry.remove \
-	--tls.join-dist 30 \
-	--junctions.join-dist 10 \
-	--junctions.join-exclude 128617101,128616477 \
-	--default.junctions.keep-clear \
-	--tls.discard-simple
-
 porto-boundary-strict.osm: porto-unbounded.osm
 	osmfilter porto-unbounded.osm \
 		--keep="type=boundary and admin_level=7 and name=Porto" \
@@ -76,15 +60,24 @@ porto-links.osm: porto-unbounded.osm
 porto.osm: porto-nolinks.osm porto-links.osm
 	osmosis --rx porto-nolinks.osm --rx porto-links.osm --merge --wx $@
 
-porto-osm.net.xml: porto.osm osmNetconvert-PT-loc.typ.xml
+porto-osm.net.xml: porto.osm netconvert.netccfg osmNetconvert-PT-loc.typ.xml
 	netconvert --osm-files $< \
-		${NETCONVERT_OPTIONS} \
+		-c netconvert.netccfg \
 		-t osmNetconvert-PT-loc.typ.xml \
 		-o $@
 
-porto.net.xml: porto-osm-geo.net.xml diff.con.xml diff.edg.xml diff.nod.xml diff.tll.xml diff.typ.xml
+# netconvert (and netedit) tend to fix geometry without warning beforehand.
+# As such, I am calling netconvert many times on the same file to make
+# netconvert stabilize on a version.
+	netconvert -s $@ -c netconvert.netccfg -o $@
+	netconvert -s $@ -c netconvert.netccfg -o $@
+# From experience, only two calls are necessary, but I am calling again just to
+# be extra sure all needed changes are made by netconvert.
+	netconvert -s $@ -c netconvert.netccfg -o $@
+
+porto.net.xml: porto-osm-geo.net.xml netconvert.netccfg diff.con.xml diff.edg.xml diff.nod.xml diff.tll.xml diff.typ.xml
 	netconvert --sumo-net-file $< \
-		${NETCONVERT_OPTIONS} \
+		-c netconvert.netccfg \
 		-x diff.con.xml \
 		-e diff.edg.xml \
 		-n diff.nod.xml \
