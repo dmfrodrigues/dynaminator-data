@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-05-29 02:21:16.819128 by netdiff.py UNKNOWN
+<!-- generated on 2023-05-29 02:27:18.983539 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -27,11 +27,13 @@
     <node id="1418798472" type="priority"/>
     <node id="1788786447" type="priority"/>
     <node id="1788786451" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
+    <node id="1788788654" controlledInner="-193149514#2 193149514#0" tl="joinedS_1788788654_343646735"/>
     <node id="311886808" tl="311886808" tlType="actuated" type="traffic_light"/>
     <node id="311886933" tl="311886933" tlType="actuated" type="traffic_light"/>
     <node id="311887304" tl="311887304" tlType="actuated" type="traffic_light"/>
     <node id="311887306" tl="311887306" tlType="actuated" type="traffic_light"/>
     <node id="335560491" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
+    <node id="343646735" controlledInner="-193149514#2 193149514#0" tl="joinedS_1788788654_343646735" tlType="actuated" type="traffic_light"/>
     <node id="343646810" tl="343646810" tlType="actuated" type="traffic_light"/>
     <node id="343646851" tl="343646851" tlType="actuated" type="traffic_light"/>
     <node id="3446699996" tl="3446699996" tlType="actuated" type="traffic_light"/>

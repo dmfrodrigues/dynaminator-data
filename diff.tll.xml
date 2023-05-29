@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-05-29 02:21:20.109303 by netdiff.py UNKNOWN
+<!-- generated on 2023-05-29 02:27:22.060975 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -10,6 +10,7 @@
 
 <tlLogics version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tllogic_file.xsd">
     <!-- Deleted Elements -->
+    <!-- implicit via changed node type: <delete id="GS_1788788654" programID="0"/> -->
     <!-- implicit via changed node type: <delete id="cluster_10916547339_1352647052_1352647054_299613131_#4more" programID="0"/> -->
     <!-- implicit via changed node type: <delete id="cluster_1418798469_335691896" programID="0"/> -->
     <!-- implicit via changed node type: <delete id="joinedS_10838683814_1788786447" programID="0"/> -->
@@ -159,6 +160,16 @@
         <phase duration="42" maxDur="50" minDur="5" state="rrrrrGGG"/>
         <phase duration="3" state="rrrrryyy"/>
     </tlLogic>
+    <tlLogic id="joinedS_1788788654_343646735" programID="0" offset="0" type="actuated">
+        <phase duration="33" maxDur="50" minDur="5" state="GGGGgGGgrrrGGgrr"/>
+        <phase duration="3" state="yyyygyygrrryygrr"/>
+        <phase duration="6" maxDur="50" minDur="5" state="rrrGGrrGrrrrrGrr"/>
+        <phase duration="3" state="rrryyrryrrrrryrr"/>
+        <phase duration="33" maxDur="50" minDur="5" state="GGrrrrrrGGgrrrGG"/>
+        <phase duration="3" state="yyrrrrrryygrrryy"/>
+        <phase duration="6" maxDur="50" minDur="5" state="GGrrrrrrGGGrrrrr"/>
+        <phase duration="3" state="yyrrrrrryyyrrrrr"/>
+    </tlLogic>
     <tlLogic id="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806" programID="0" offset="0" type="actuated">
         <phase duration="16" maxDur="50" minDur="5" state="rrrGGGGGGGrrGGGGrr"/>
         <phase duration="3" state="rrryyyyyyyrryyyyrr"/>
@@ -211,6 +222,9 @@
     <connection from="-1174565660" fromLane="0" to="1175952372#0" toLane="0" linkIndex="3" tl="126617428"/>
     <connection from="-1174565662#1" fromLane="0" to="-1016548268#3" toLane="0" linkIndex="6" tl="122452427"/>
     <connection from="-1174565662#1" fromLane="1" to="1083211596#0" toLane="1" linkIndex="7" tl="122452427"/>
+    <connection from="-1174623150#1" fromLane="0" to="-35475028#4" toLane="0" linkIndex="8" tl="joinedS_1788788654_343646735"/>
+    <connection from="-1174623150#1" fromLane="0" to="-39654094#3" toLane="0" linkIndex="9" tl="joinedS_1788788654_343646735"/>
+    <connection from="-1174623150#1" fromLane="1" to="-193149514#2" toLane="0" linkIndex="10" tl="joinedS_1788788654_343646735"/>
     <connection from="-13274855#11" fromLane="0" to="-13274855#6" toLane="0" linkIndex="4" tl="111439225"/>
     <connection from="-13274855#11" fromLane="1" to="-13274855#6" toLane="1" linkIndex="5" tl="111439225"/>
     <connection from="-13274855#6" fromLane="0" to="-13274855#3" toLane="0" linkIndex="3" tl="311887306"/>
@@ -293,6 +307,9 @@
     <connection from="167487372#2" fromLane="0" to="1165291408#0" toLane="0" linkIndex="0" tl="335560491"/>
     <connection from="167487372#2" fromLane="1" to="1165291408#0" toLane="1" linkIndex="1" tl="335560491"/>
     <connection from="167487441" fromLane="0" to="1165291408#0" toLane="1" linkIndex="2" tl="335560491"/>
+    <connection from="193149514#0" fromLane="0" to="1174623150#0" toLane="0" linkIndex="11" tl="joinedS_1788788654_343646735"/>
+    <connection from="193149514#0" fromLane="0" to="-35475028#4" toLane="0" linkIndex="12" tl="joinedS_1788788654_343646735"/>
+    <connection from="193149514#0" fromLane="1" to="-39654094#3" toLane="0" linkIndex="13" tl="joinedS_1788788654_343646735"/>
     <connection from="207724059#0" fromLane="0" to="1011328582#0" toLane="0" linkIndex="2" tl="311886933"/>
     <connection from="207724059#0" fromLane="1" to="1011328582#0" toLane="1" linkIndex="3" tl="311886933"/>
     <connection from="28394015#0" fromLane="0" to="1011328582#0" toLane="0" linkIndex="0" tl="311886933"/>
@@ -304,9 +321,14 @@
     <connection from="34885150#0" fromLane="0" to="159959891#0" toLane="0" linkIndex="5" tl="cluster_1842003093_299610558"/>
     <connection from="34885150#0" fromLane="0" to="434879916#0" toLane="0" linkIndex="6" tl="cluster_1842003093_299610558"/>
     <connection from="34885150#0" fromLane="1" to="434879917#0" toLane="1" linkIndex="7" tl="cluster_1842003093_299610558"/>
+    <connection from="35475028#2" fromLane="0" to="-39654094#3" toLane="0" linkIndex="5" tl="joinedS_1788788654_343646735"/>
+    <connection from="35475028#2" fromLane="0" to="-193149514#2" toLane="0" linkIndex="6" tl="joinedS_1788788654_343646735"/>
+    <connection from="35475028#2" fromLane="0" to="1174623150#0" toLane="0" linkIndex="7" tl="joinedS_1788788654_343646735"/>
     <connection from="39597779#0" fromLane="0" to="1174565663#0" toLane="0" linkIndex="0" tl="343646851"/>
     <connection from="39597779#0" fromLane="0" to="1174565663#0" toLane="1" linkIndex="1" tl="343646851"/>
     <connection from="39597779#0" fromLane="0" to="39590262#0" toLane="0" linkIndex="2" tl="343646851"/>
+    <connection from="39654094#0" fromLane="0" to="-193149514#2" toLane="0" linkIndex="14" tl="joinedS_1788788654_343646735"/>
+    <connection from="39654094#0" fromLane="0" to="1174623150#0" toLane="0" linkIndex="15" tl="joinedS_1788788654_343646735"/>
     <connection from="39654345#0" fromLane="0" to="1120859258#0" toLane="0" linkIndex="6" tl="343646810"/>
     <connection from="39654345#0" fromLane="0" to="1120859258#0" toLane="1" linkIndex="7" tl="343646810"/>
     <connection from="39654345#0" fromLane="0" to="453493822#0" toLane="0" linkIndex="8" tl="343646810"/>
@@ -347,11 +369,16 @@
     <connection from="800153230#0" fromLane="1" to="453494265#0" toLane="2" linkIndex="5" tl="122439068"/>
     <connection from="800153230#0" fromLane="2" to="453494265#0" toLane="0" linkIndex="6" tl="122439068"/>
     <!-- Changed Elements -->
+    <connection from="-193149514#2" fromLane="0" to="106572534#0" toLane="0" tl="joinedS_1788788654_343646735"/>
+    <connection from="-193149514#2" fromLane="0" to="106572534#0" toLane="1" tl="joinedS_1788788654_343646735"/>
     <connection from="1174835632" fromLane="0" to="618986719" toLane="0" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <connection from="1174835632" fromLane="0" to="1174835631" toLane="0" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <connection from="1174835632" fromLane="1" to="1174835631" toLane="1" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <connection from="1174835632" fromLane="2" to="1174835631" toLane="2" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <connection from="1174835632" fromLane="3" to="27292930#0" toLane="0" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
+    <connection from="212706763#0" fromLane="0" to="193149514#0" toLane="0" tl="joinedS_1788788654_343646735"/>
+    <connection from="212706763#0" fromLane="1" to="193149514#0" toLane="1" tl="joinedS_1788788654_343646735"/>
+    <connection from="212706763#0" fromLane="1" to="106572534#0" toLane="1" tl="joinedS_1788788654_343646735"/>
     <connection from="29036519#0" fromLane="0" to="549454264#0" toLane="0" linkIndex="8" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
     <connection from="29036519#0" fromLane="1" to="549454264#0" toLane="1" linkIndex="9" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
     <connection from="549269428" fromLane="0" to="1174835635" toLane="0" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
