@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-05-28 21:55:18.609347 by netdiff.py UNKNOWN
+<!-- generated on 2023-05-29 02:21:19.784806 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -10,6 +10,21 @@
 
 <connections version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
     <!-- Deleted Elements -->
+    <delete from="128363655#2" fromLane="0" to="1030031001#0" toLane="1"/>
+    <delete from="482240913#0" fromLane="0" to="1030031001#0" toLane="0"/>
+    <delete from="608418574#1" fromLane="1" to="741767467#0" toLane="0"/>
+    <delete from="608418574#1" fromLane="2" to="741767467#0" toLane="1"/>
+    <delete from="608418576#0" fromLane="2" to="189908446" toLane="1"/>
+    <delete from="741767467#0" fromLane="2" to="608418577" toLane="1"/>
     <!-- Created Elements -->
+    <connection from="1164717213" fromLane="0" to="608418573#0" toLane="0" />
+    <connection from="608418574#1" fromLane="1" to="741767467#0" toLane="1" />
+    <connection from="608418574#1" fromLane="2" to="741767467#0" toLane="2" />
+    <connection from="608418575#0" fromLane="0" to="608418574#0" toLane="0" />
+    <connection from="608418576#0" fromLane="1" to="189908446" toLane="1" />
+    <connection from="608418576#0" fromLane="2" to="189908446" toLane="2" />
+    <connection from="741767467#0" fromLane="1" to="608418577" toLane="1" />
+    <connection from="741767467#0" fromLane="2" to="608418577" toLane="2" />
     <!-- Changed Elements -->
+    <connection from="1164717214" fromLane="0" to="608418573#0" toLane="0" visibility="9.00"/>
 </connections>

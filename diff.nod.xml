@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-05-28 21:55:15.581623 by netdiff.py UNKNOWN
+<!-- generated on 2023-05-29 02:21:16.819128 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -12,4 +12,36 @@
     <!-- Deleted Elements -->
     <!-- Created Elements -->
     <!-- Changed Elements -->
+    <node id="10838683814" type="priority"/>
+    <node id="111439225" tl="111439225" tlType="actuated" type="traffic_light"/>
+    <node id="111450380" tl="111450380" tlType="actuated" type="traffic_light"/>
+    <node id="122439068" tl="122439068" tlType="actuated" type="traffic_light"/>
+    <node id="122452427" tl="122452427" tlType="actuated" type="traffic_light"/>
+    <node id="126617428" tl="126617428" tlType="actuated" type="traffic_light"/>
+    <node id="126617430" tl="126617430" tlType="actuated" type="traffic_light"/>
+    <node id="128673223" tl="128673223" tlType="actuated" type="traffic_light"/>
+    <node id="129665112" tl="129665112" tlType="actuated" type="traffic_light"/>
+    <node id="130075593" type="priority"/>
+    <node id="1352647004" type="priority"/>
+    <node id="1418798464" type="priority"/>
+    <node id="1418798472" type="priority"/>
+    <node id="1788786447" type="priority"/>
+    <node id="1788786451" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
+    <node id="311886808" tl="311886808" tlType="actuated" type="traffic_light"/>
+    <node id="311886933" tl="311886933" tlType="actuated" type="traffic_light"/>
+    <node id="311887304" tl="311887304" tlType="actuated" type="traffic_light"/>
+    <node id="311887306" tl="311887306" tlType="actuated" type="traffic_light"/>
+    <node id="335560491" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
+    <node id="343646810" tl="343646810" tlType="actuated" type="traffic_light"/>
+    <node id="343646851" tl="343646851" tlType="actuated" type="traffic_light"/>
+    <node id="3446699996" tl="3446699996" tlType="actuated" type="traffic_light"/>
+    <node id="479183608" tl="479183608" tlType="actuated" type="traffic_light"/>
+    <node id="90378713" tl="90378713" tlType="actuated" type="traffic_light"/>
+    <node id="90378716" tl="90378716" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_10916547339_1352647052_1352647054_299613131_#4more" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
+    <node id="cluster_130075590_1352647030" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1352647001_5307690020" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
+    <node id="cluster_1352647036_4751729004_4751729011_5305836806" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1418798469_335691896" type="priority"/>
+    <node id="cluster_1842003093_299610558" tl="cluster_1842003093_299610558" tlType="actuated" type="traffic_light"/>
 </nodes>
