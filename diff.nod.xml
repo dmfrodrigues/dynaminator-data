@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-05-29 02:27:18.983539 by netdiff.py UNKNOWN
+<!-- generated on 2023-05-31 00:10:14.099689 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -13,10 +13,12 @@
     <!-- Created Elements -->
     <!-- Changed Elements -->
     <node id="10838683814" type="priority"/>
+    <node id="111415445" controlledInner="975258840" tl="343646787" tlType="actuated" type="traffic_light"/>
     <node id="111439225" tl="111439225" tlType="actuated" type="traffic_light"/>
     <node id="111450380" tl="111450380" tlType="actuated" type="traffic_light"/>
     <node id="122439068" tl="122439068" tlType="actuated" type="traffic_light"/>
     <node id="122452427" tl="122452427" tlType="actuated" type="traffic_light"/>
+    <node id="1264279310" type="priority"/>
     <node id="126617428" tl="126617428" tlType="actuated" type="traffic_light"/>
     <node id="126617430" tl="126617430" tlType="actuated" type="traffic_light"/>
     <node id="128673223" tl="128673223" tlType="actuated" type="traffic_light"/>
@@ -34,14 +36,26 @@
     <node id="311887306" tl="311887306" tlType="actuated" type="traffic_light"/>
     <node id="335560491" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
     <node id="343646735" controlledInner="-193149514#2 193149514#0" tl="joinedS_1788788654_343646735" tlType="actuated" type="traffic_light"/>
+    <node id="343646787" controlledInner="975258840" tl="343646787" tlType="actuated" type="traffic_light"/>
     <node id="343646810" tl="343646810" tlType="actuated" type="traffic_light"/>
     <node id="343646851" tl="343646851" tlType="actuated" type="traffic_light"/>
     <node id="3446699996" tl="3446699996" tlType="actuated" type="traffic_light"/>
     <node id="479183608" tl="479183608" tlType="actuated" type="traffic_light"/>
+    <node id="5284452787" type="priority"/>
+    <node id="5284452797" type="priority"/>
+    <node id="5284452808" controlledInner="975258840" tl="343646787"/>
     <node id="90378713" tl="90378713" tlType="actuated" type="traffic_light"/>
     <node id="90378716" tl="90378716" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_10840897519_1264279440" tl="cluster_10840897519_1264279440" tlType="actuated" type="traffic_light"/>
     <node id="cluster_10916547339_1352647052_1352647054_299613131_#4more" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
+    <node id="cluster_111830195_1239645074_1487175337" tl="cluster_111830195_1239645074_1487175337" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1264279385_4581699524_8272254455" tl="cluster_1264279385_4581699524_8272254455" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1264279389_1264279403_1264279502" tl="cluster_1264279389_1264279403_1264279502" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1264279393_4581699525_8272254457" tl="cluster_1264279393_4581699525_8272254457" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1264279406_1264279436_1264279449_1725588115_#1more" tl="cluster_1264279406_1264279436_1264279449_1725588115_#1more" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1264279415_2066725903_2066725905_8376102993" type="priority"/>
     <node id="cluster_130075590_1352647030" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_1305103908_1725588141_1725588144" tl="cluster_1305103908_1725588141_1725588144" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1352647001_5307690020" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
     <node id="cluster_1352647036_4751729004_4751729011_5305836806" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1418798469_335691896" type="priority"/>
