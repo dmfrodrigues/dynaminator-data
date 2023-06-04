@@ -13,4 +13,5 @@ tiles:
 		-p porto \
 		-s porto-decals-tiles.xml \
 		-t 8000 \
-		-f 1
+		-f 1 \
+		-j 8
