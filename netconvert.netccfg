@@ -33,7 +33,6 @@
     </edge_removal>
 
     <junctions>
-        <no-turnarounds value="true"/>
         <no-turnarounds.except-deadend value="true"/>
         <junctions.join value="true"/>
         <junctions.join-dist value="10"/>

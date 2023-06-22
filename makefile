@@ -1,4 +1,4 @@
-all: porto.net.xml porto.taz.xml
+all: porto.net.xml matrix.9.0.10.0.2.fma
 
 OSM2POLY=openstreetmap/svn-archive/osm2poly.pl
 
@@ -90,6 +90,9 @@ porto.net.xml: porto-osm-geo.net.xml netconvert.netccfg diff.con.xml diff.edg.xm
 
 porto-armis-shape.taz.xml: armis/porto-armis.net.xml armis/porto-armis.taz.xml
 	./addShapeToTAZ.py $? > $@
+
+matrix.9.0.10.0.2.fma: matrix.9.0.10.0.2.armis.fma fixODMatrix.py
+	./fixODMatrix.py $< $@
 
 OSM_DATE ?= $(shell date -u --iso-8601=seconds)
 

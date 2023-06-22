@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-05-31 00:10:14.099689 by netdiff.py UNKNOWN
+<!-- generated on 2023-06-10 14:44:37.246696 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -40,6 +40,7 @@
     <node id="343646810" tl="343646810" tlType="actuated" type="traffic_light"/>
     <node id="343646851" tl="343646851" tlType="actuated" type="traffic_light"/>
     <node id="3446699996" tl="3446699996" tlType="actuated" type="traffic_light"/>
+    <node id="3554953679" type="priority"/>
     <node id="479183608" tl="479183608" tlType="actuated" type="traffic_light"/>
     <node id="5284452787" type="priority"/>
     <node id="5284452797" type="priority"/>
@@ -49,6 +50,7 @@
     <node id="cluster_10840897519_1264279440" tl="cluster_10840897519_1264279440" tlType="actuated" type="traffic_light"/>
     <node id="cluster_10916547339_1352647052_1352647054_299613131_#4more" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <node id="cluster_111830195_1239645074_1487175337" tl="cluster_111830195_1239645074_1487175337" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_112613532_112628026" tl="cluster_112613532_112628026" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1264279385_4581699524_8272254455" tl="cluster_1264279385_4581699524_8272254455" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1264279389_1264279403_1264279502" tl="cluster_1264279389_1264279403_1264279502" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1264279393_4581699525_8272254457" tl="cluster_1264279393_4581699525_8272254457" tlType="actuated" type="traffic_light"/>
@@ -60,4 +62,5 @@
     <node id="cluster_1352647036_4751729004_4751729011_5305836806" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1418798469_335691896" type="priority"/>
     <node id="cluster_1842003093_299610558" tl="cluster_1842003093_299610558" tlType="actuated" type="traffic_light"/>
+    <node id="cluster_2583954419_296058885" tl="cluster_2583954419_296058885" tlType="actuated" type="traffic_light"/>
 </nodes>
