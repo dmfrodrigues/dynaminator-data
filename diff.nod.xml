@@ -8,7 +8,8 @@
 </configuration>
 -->
 
-<nodes version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+<nodes version="1.16"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
     <!-- Deleted Elements -->
     <!-- Created Elements -->
     <!-- Changed Elements -->
@@ -50,7 +51,6 @@
     <node id="cluster_10840897519_1264279440" tl="cluster_10840897519_1264279440" tlType="actuated" type="traffic_light"/>
     <node id="cluster_10916547339_1352647052_1352647054_299613131_#4more" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <node id="cluster_11005833093_cluster_10718774501_129559333_2356731137_3092601790" tl="cluster_11005833093_cluster_10718774501_129559333_2356731137_3092601790" tlType="actuated" type="traffic_light"/>
-    <node id="cluster_111830195_1239645074_1487175337" tl="cluster_111830195_1239645074_1487175337" tlType="actuated" type="traffic_light"/>
     <node id="cluster_112613532_112628026" tl="cluster_112613532_112628026" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1264279385_4581699524_8272254455" tl="cluster_1264279385_4581699524_8272254455" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1264279389_1264279403_1264279502" tl="cluster_1264279389_1264279403_1264279502" tlType="actuated" type="traffic_light"/>

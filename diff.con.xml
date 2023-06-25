@@ -8,10 +8,10 @@
 </configuration>
 -->
 
-<connections version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
+<connections version="1.16"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
     <!-- Deleted Elements -->
     <delete from="128363655#2" fromLane="0" to="1030031001#0" toLane="1"/>
-    <delete from="160503755" fromLane="0" to="110801277#0" toLane="0"/>
     <delete from="304684302#0" fromLane="0" to="715176795#0" toLane="1"/>
     <delete from="482240913#0" fromLane="0" to="1030031001#0" toLane="0"/>
     <delete from="608418574#1" fromLane="1" to="741767467#0" toLane="0"/>
