@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-06-23 15:48:50 by Eclipse SUMO netedit Version 1.17.0
+<!-- generated on 2023-06-25 18:00:06 by Eclipse SUMO netedit Version 1.17.0
 -->
 
 <additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
@@ -112,10 +112,10 @@
         <tazSink id="367522274" weight="1.00"/>
     </taz>
     <taz id="115" shape="534951.61,4558953.61 534997.40,4558953.61 534997.40,4559114.88 534951.61,4559114.88 534951.61,4558953.61" color="blue">
-        <tazSource id="-743539878#1" weight="1.00"/>
-        <tazSink id="-743539878#1" weight="1.00"/>
+        <tazSource id="37857253" weight="0.00"/>
+        <tazSink id="37857253" weight="1.00"/>
         <tazSource id="743539878#0" weight="1.00"/>
-        <tazSink id="743539878#0" weight="1.00"/>
+        <tazSink id="743539878#0" weight="0.00"/>
     </taz>
     <taz id="116" shape="535880.95,4558765.39 536121.29,4558765.39 536121.29,4558858.39 535880.95,4558858.39 535880.95,4558765.39" color="blue">
         <tazSource id="106466616" weight="1.00"/>
@@ -794,24 +794,12 @@
         <tazSink id="452076637#1" weight="1.00"/>
     </taz>
     <taz id="5" shape="532595.51,4554763.16 532694.22,4554763.16 532694.22,4554941.88 532595.51,4554941.88 532595.51,4554763.16" color="blue">
-        <tazSource id="-1152389610" weight="1.00"/>
-        <tazSink id="-1152389610" weight="1.00"/>
-        <tazSource id="-304684297#1" weight="1.00"/>
-        <tazSink id="-304684297#1" weight="1.00"/>
-        <tazSource id="-349620089" weight="1.00"/>
-        <tazSink id="-349620089" weight="1.00"/>
         <tazSource id="-349620090#2" weight="1.00"/>
         <tazSink id="-349620090#2" weight="1.00"/>
         <tazSource id="-349620090#4" weight="1.00"/>
         <tazSink id="-349620090#4" weight="1.00"/>
-        <tazSource id="1152389610" weight="1.00"/>
-        <tazSink id="1152389610" weight="1.00"/>
-        <tazSource id="1152389611" weight="1.00"/>
-        <tazSink id="1152389611" weight="1.00"/>
         <tazSource id="304684297#0" weight="1.00"/>
         <tazSink id="304684297#0" weight="1.00"/>
-        <tazSource id="349620089" weight="1.00"/>
-        <tazSink id="349620089" weight="1.00"/>
         <tazSource id="349620090#0" weight="1.00"/>
         <tazSink id="349620090#0" weight="1.00"/>
         <tazSource id="349620090#3" weight="1.00"/>
