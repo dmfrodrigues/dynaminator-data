@@ -31,10 +31,4 @@
     <connection from="741767467#0" fromLane="2" to="608418577" toLane="2" />
     <!-- Changed Elements -->
     <connection from="1164717214" fromLane="0" to="608418573#0" toLane="0" visibility="9.00"/>
-    <connection from="224647868#4" fromLane="0" to="224647868#5" toLane="0" uncontrolled="1"/>
-    <connection from="224647868#4" fromLane="1" to="224647868#5" toLane="1" uncontrolled="1"/>
-    <connection from="224647868#4" fromLane="1" to="978103353" toLane="0" uncontrolled="1"/>
-    <connection from="224647868#6" fromLane="0" to="546881512#0" toLane="0" uncontrolled="1"/>
-    <connection from="224647868#6" fromLane="1" to="546881512#0" toLane="1" uncontrolled="1"/>
-    <connection from="546881517#0" fromLane="0" to="224647868#5" toLane="0" uncontrolled="1"/>
 </connections>
