@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-06-25 18:26:49.203409 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-02 00:26:03.584409 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -8,8 +8,7 @@
 </configuration>
 -->
 
-<nodes version="1.16"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+<nodes version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
     <!-- Deleted Elements -->
     <!-- Created Elements -->
     <!-- Changed Elements -->
@@ -19,10 +18,9 @@
     <node id="111450380" tl="111450380" tlType="actuated" type="traffic_light"/>
     <node id="122439068" tl="122439068" tlType="actuated" type="traffic_light"/>
     <node id="122452427" tl="122452427" tlType="actuated" type="traffic_light"/>
-    <node id="1264279310" type="priority"/>
     <node id="126617428" tl="126617428" tlType="actuated" type="traffic_light"/>
     <node id="126617430" tl="126617430" tlType="actuated" type="traffic_light"/>
-    <node id="128673223" tl="128673223" tlType="actuated" type="traffic_light"/>
+    <node id="128673223" tl="128673223"/>
     <node id="129665112" tl="129665112" tlType="actuated" type="traffic_light"/>
     <node id="130075593" type="priority"/>
     <node id="1352647004" type="priority"/>
