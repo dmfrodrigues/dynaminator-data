@@ -19,6 +19,8 @@ porto-boundary.poly: porto-boundary.osm
 	sed -i -e "s/    <tag k='border_type' v='.\+' \/>//g" $<.tmp
 	sed -i -e "s/    <tag k='boundary' v='.\+' \/>//g" $<.tmp
 	sed -i -e "s/    <tag k='source' v='.\+' \/>//g" $<.tmp
+	sed -i -e "s/    <tag k='area' v='.\+' \/>//g" $<.tmp
+	sed -i -e "s/    <tag k='man_made' v='.\+' \/>//g" $<.tmp
 
 	$(OSM2POLY) $<.tmp > $@
 
@@ -98,3 +100,5 @@ OSM_DATE ?= $(shell date -u --iso-8601=seconds)
 
 porto-unbounded.osm: | overpass-request.txt
 	./overpass-request.py $| ${OSM_DATE} $@
+
+.DELETE_ON_ERROR:
