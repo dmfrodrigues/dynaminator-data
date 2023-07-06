@@ -8,7 +8,8 @@
 </configuration>
 -->
 
-<tlLogics version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tllogic_file.xsd">
+<tlLogics version="1.16"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tllogic_file.xsd">
     <!-- Deleted Elements -->
     <!-- implicit via changed node type: <delete id="GS_128673223" programID="0"/> -->
     <!-- implicit via changed node type: <delete id="GS_1788788654" programID="0"/> -->
@@ -289,13 +290,13 @@
         <phase duration="3" state="yyyyrrrrrryyy"/>
     </tlLogic>
     <!-- Changed Elements -->
-    <tlLogic id="GS_2585503026" programID="0" >
+    <tlLogic id="GS_2585503026" programID="0">
         <phase duration="42" maxDur="50" minDur="5" state="GGGrr"/>
         <phase duration="3" state="yyyrr"/>
         <phase duration="42" maxDur="50" minDur="5" state="rrrGG"/>
         <phase duration="3" state="rrryy"/>
     </tlLogic>
-    <tlLogic id="GS_3446699979" programID="0" >
+    <tlLogic id="GS_3446699979" programID="0">
         <phase duration="42" maxDur="50" minDur="5" state="GGGGrrr"/>
         <phase duration="3" state="yyyyrrr"/>
         <phase duration="42" maxDur="50" minDur="5" state="rrrGGGG"/>
@@ -450,9 +451,6 @@
     <connection from="349620090#3" fromLane="0" to="1172514815" toLane="0" linkIndex="4" tl="cluster_11005833093_cluster_10718774501_129559333_2356731137_3092601790"/>
     <connection from="349620090#3" fromLane="0" to="-715176795#1" toLane="0" linkIndex="5" tl="cluster_11005833093_cluster_10718774501_129559333_2356731137_3092601790"/>
     <connection from="349620090#3" fromLane="0" to="304684297#0" toLane="0" linkIndex="6" tl="cluster_11005833093_cluster_10718774501_129559333_2356731137_3092601790"/>
-    <connection from="35475028#2" fromLane="0" to="-39654094#3" toLane="0" linkIndex="5" tl="joinedS_1788788654_343646735"/>
-    <connection from="35475028#2" fromLane="0" to="-193149514#2" toLane="0" linkIndex="6" tl="joinedS_1788788654_343646735"/>
-    <connection from="35475028#2" fromLane="0" to="1174623150#0" toLane="0" linkIndex="7" tl="joinedS_1788788654_343646735"/>
     <connection from="39597779#0" fromLane="0" to="1174565663#0" toLane="0" linkIndex="0" tl="343646851"/>
     <connection from="39597779#0" fromLane="0" to="1174565663#0" toLane="1" linkIndex="1" tl="343646851"/>
     <connection from="39597779#0" fromLane="0" to="39590262#0" toLane="0" linkIndex="2" tl="343646851"/>
@@ -530,8 +528,6 @@
     <connection from="975258840" fromLane="0" to="30912920#0" toLane="0" linkIndex="3" tl="343646787"/>
     <connection from="975258840" fromLane="0" to="546881512#0" toLane="1" linkIndex="3" tl="343646787"/>
     <!-- Changed Elements -->
-    <connection from="-193149514#2" fromLane="0" to="106572534#0" toLane="0" tl="joinedS_1788788654_343646735"/>
-    <connection from="-193149514#2" fromLane="0" to="106572534#0" toLane="1" tl="joinedS_1788788654_343646735"/>
     <connection from="-304690306#1" fromLane="1" to="549269430" toLane="3" linkIndex="17" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <connection from="-482261341#1" fromLane="0" to="39895287" toLane="0" tl="128673223"/>
     <connection from="-482261341#1" fromLane="0" to="-482261338#1" toLane="1" tl="128673223"/>
@@ -553,7 +549,6 @@
     <connection from="120692681#0" fromLane="1" to="304690306#0" toLane="1" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <connection from="212706763#0" fromLane="0" to="193149514#0" toLane="0" tl="joinedS_1788788654_343646735"/>
     <connection from="212706763#0" fromLane="1" to="193149514#0" toLane="1" tl="joinedS_1788788654_343646735"/>
-    <connection from="212706763#0" fromLane="1" to="106572534#0" toLane="1" tl="joinedS_1788788654_343646735"/>
     <connection from="29036519#0" fromLane="0" to="549454264#0" toLane="0" linkIndex="8" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
     <connection from="29036519#0" fromLane="1" to="549454264#0" toLane="1" linkIndex="9" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
     <connection from="546881517#0" fromLane="1" to="978103353" toLane="0" linkIndex="4" tl="343646787"/>
