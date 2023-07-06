@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-06 01:38:50.454373 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-06 03:30:14.189197 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -18,6 +18,8 @@
     <node id="111450380" tl="111450380" tlType="actuated" type="traffic_light"/>
     <node id="122439068" tl="122439068" tlType="actuated" type="traffic_light"/>
     <node id="122452427" tl="122452427" tlType="actuated" type="traffic_light"/>
+    <node id="1225943158" controlledInner="-104179543#1 104179543#0" tl="GS_126592365" tlType="actuated" type="traffic_light"/>
+    <node id="126592365" controlledInner="-104179543#1 104179543#0"/>
     <node id="126617428" tl="126617428" tlType="actuated" type="traffic_light"/>
     <node id="126617430" tl="126617430" tlType="actuated" type="traffic_light"/>
     <node id="128673223" tl="128673223"/>
@@ -28,13 +30,12 @@
     <node id="1418798472" type="priority"/>
     <node id="1788786447" type="priority"/>
     <node id="1788786451" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
-    <node id="1788788654" controlledInner="-193149514#2 193149514#0" tl="joinedS_1788788654_343646735"/>
     <node id="311886808" tl="311886808" tlType="actuated" type="traffic_light"/>
     <node id="311886933" tl="311886933" tlType="actuated" type="traffic_light"/>
     <node id="311887304" tl="311887304" tlType="actuated" type="traffic_light"/>
     <node id="311887306" tl="311887306" tlType="actuated" type="traffic_light"/>
     <node id="335560491" controlledInner="167487441" tl="335560491" tlType="actuated" type="traffic_light"/>
-    <node id="343646735" controlledInner="-193149514#2 193149514#0" tl="joinedS_1788788654_343646735" tlType="actuated" type="traffic_light"/>
+    <node id="343646735" tl="joinedS_1788788654_343646735" tlType="actuated" type="traffic_light"/>
     <node id="343646787" controlledInner="975258840" tl="343646787" tlType="actuated" type="traffic_light"/>
     <node id="343646810" tl="343646810" tlType="actuated" type="traffic_light"/>
     <node id="343646851" tl="343646851" tlType="actuated" type="traffic_light"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-06 01:38:53.089699 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-06 03:30:16.915496 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -126,6 +126,7 @@
     <connection from="859507144#0" fromLane="1" to="95127165#0" toLane="1" />
     <connection from="859507144#0" fromLane="1" to="859507144#1" toLane="0" />
     <!-- Changed Elements -->
+    <connection from="-193149514#2" fromLane="0" to="1187724078" toLane="0" uncontrolled="1"/>
     <connection from="1016542175#3" fromLane="0" to="1123747348#0" toLane="0" uncontrolled="1"/>
     <connection from="1016542175#3" fromLane="0" to="1118730752#0" toLane="0" uncontrolled="1"/>
     <connection from="1016542175#3" fromLane="1" to="1118730752#0" toLane="1" uncontrolled="1"/>
@@ -145,10 +146,15 @@
     <connection from="1186568760#0" fromLane="1" to="1164706337#0" toLane="1" uncontrolled="1"/>
     <connection from="1186568760#0" fromLane="2" to="1123747348#0" toLane="0" uncontrolled="1"/>
     <connection from="12296600#0" fromLane="0" to="12296600#3" toLane="0" visibility="9.00"/>
+    <connection from="212706763#0" fromLane="0" to="193149514#0" toLane="0" uncontrolled="1"/>
+    <connection from="212706763#0" fromLane="1" to="193149514#0" toLane="1" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="0" to="-890772071#25" toLane="0" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="0" to="1164572117" toLane="0" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="1" to="1164572117" toLane="1" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="1" to="40860748#0" toLane="0" uncontrolled="1"/>
+    <connection from="35475028#0" fromLane="0" to="-39654094#3" toLane="0" uncontrolled="1"/>
+    <connection from="35475028#0" fromLane="0" to="-193149514#2" toLane="0" uncontrolled="1"/>
+    <connection from="35475028#0" fromLane="0" to="1174623150#0" toLane="0" uncontrolled="1"/>
     <connection from="386578487#0" fromLane="0" to="1174429371" toLane="0" visibility="9.00"/>
     <connection from="40589813#3" fromLane="0" to="1164692079#0" toLane="0" uncontrolled="1"/>
     <connection from="40589813#3" fromLane="0" to="1016542180#0" toLane="0" uncontrolled="1"/>
