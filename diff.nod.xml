@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-06 03:30:14.189197 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-06 04:27:59.848416 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -8,7 +8,8 @@
 </configuration>
 -->
 
-<nodes version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+<nodes version="1.16"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
     <!-- Deleted Elements -->
     <!-- Created Elements -->
     <!-- Changed Elements -->
@@ -16,6 +17,9 @@
     <node id="111415445" controlledInner="975258840" tl="343646787" tlType="actuated" type="traffic_light"/>
     <node id="111439225" tl="111439225" tlType="actuated" type="traffic_light"/>
     <node id="111450380" tl="111450380" tlType="actuated" type="traffic_light"/>
+    <node id="111635267" tl="joinedS_111635267_111636733" tlType="actuated" type="traffic_light"/>
+    <node id="111636733" tl="joinedS_111635267_111636733" tlType="actuated" type="traffic_light"/>
+    <node id="111636742" tl="111636742" tlType="actuated" type="traffic_light"/>
     <node id="122439068" tl="122439068" tlType="actuated" type="traffic_light"/>
     <node id="122452427" tl="122452427" tlType="actuated" type="traffic_light"/>
     <node id="1225943158" controlledInner="-104179543#1 104179543#0" tl="GS_126592365" tlType="actuated" type="traffic_light"/>
@@ -59,7 +63,6 @@
     <node id="cluster_130075590_1352647030" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1305103908_1725588141_1725588144" tl="cluster_1305103908_1725588141_1725588144" tlType="actuated" type="traffic_light"/>
     <node id="cluster_1352647001_5307690020" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
-    <node id="cluster_1352647036_4751729004_4751729011" tl="joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011 joinedS_cluster_10916547339_1352647052_1352647054_299613131_#4more_cluster_1352647036_4751729004_4751729011_5305836806"/>
     <node id="cluster_1418798469_335691896" type="priority"/>
     <node id="cluster_1842003093_299610558" tl="cluster_1842003093_299610558" tlType="actuated" type="traffic_light"/>
     <node id="cluster_2583954419_296058885" tl="cluster_2583954419_296058885" tlType="actuated" type="traffic_light"/>
