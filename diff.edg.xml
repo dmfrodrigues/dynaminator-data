@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-03 15:14:21.416897 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-06 01:38:51.779747 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -12,4 +12,6 @@
     <!-- Deleted Elements -->
     <!-- Created Elements -->
     <!-- Changed Elements -->
+    <edge id="1165291408#0" shape="531315.95,4555983.36 531311.24,4556000.36 531308.89,4556010.40 531303.48,4556022.99"/>
+    <edge id="167487371#0" shape="531300.23,4556022.47 531301.73,4556011.91 531301.53,4556008.83 531303.96,4555997.91 531307.71,4555982.89"/>
 </edges>

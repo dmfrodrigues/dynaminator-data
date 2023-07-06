@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-03 15:14:22.748668 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-06 01:38:53.089699 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -35,6 +35,12 @@
     <delete from="1153365926#0" fromLane="1" to="1174333912" toLane="2"/>
     <delete from="1174333912" fromLane="1" to="859079009" toLane="0"/>
     <delete from="1186568773" fromLane="2" to="1007441785" toLane="1"/>
+    <delete from="1187716779" fromLane="0" to="1187716778" toLane="1"/>
+    <delete from="1187716779" fromLane="0" to="1187716778" toLane="2"/>
+    <delete from="1187716779" fromLane="1" to="1187716778" toLane="3"/>
+    <delete from="1187716780#0" fromLane="1" to="1187716779" toLane="0"/>
+    <delete from="1187716780#0" fromLane="2" to="1187716779" toLane="1"/>
+    <delete from="1187716780#0" fromLane="3" to="1187716779" toLane="2"/>
     <delete from="128363655#2" fromLane="0" to="1030031001#0" toLane="1"/>
     <delete from="151784037#0" fromLane="0" to="151784037#1" toLane="0"/>
     <delete from="151784037#2" fromLane="0" to="151784037#3" toLane="0"/>
@@ -48,6 +54,7 @@
     <delete from="608418574#1" fromLane="1" to="741767467#0" toLane="0"/>
     <delete from="608418574#1" fromLane="2" to="741767467#0" toLane="1"/>
     <delete from="608418576#0" fromLane="2" to="189908446" toLane="1"/>
+    <delete from="738994728#0" fromLane="1" to="38336643#0" toLane="1"/>
     <delete from="741767467#0" fromLane="2" to="608418577" toLane="1"/>
     <delete from="761561721" fromLane="0" to="12319081#0" toLane="1"/>
     <delete from="761561721" fromLane="0" to="761561722" toLane="0"/>
@@ -84,6 +91,12 @@
     <connection from="1164717213" fromLane="0" to="608418573#0" toLane="0" />
     <connection from="1174333912" fromLane="2" to="859079009" toLane="0" />
     <connection from="1174429370" fromLane="0" to="1174333912" toLane="0" />
+    <connection from="1187716779" fromLane="1" to="1187716778" toLane="1" />
+    <connection from="1187716779" fromLane="2" to="1187716778" toLane="2" />
+    <connection from="1187716779" fromLane="2" to="1187716778" toLane="3" />
+    <connection from="1187716780#0" fromLane="0" to="1187716779" toLane="0" />
+    <connection from="1187716780#0" fromLane="1" to="1187716779" toLane="1" />
+    <connection from="1187716780#0" fromLane="2" to="1187716779" toLane="2" />
     <connection from="120827014" fromLane="0" to="207634511#0" toLane="0" />
     <connection from="120827015" fromLane="0" to="12296600#3" toLane="0" />
     <connection from="151784037#0" fromLane="1" to="151784037#1" toLane="0" />
@@ -99,6 +112,7 @@
     <connection from="608418575#0" fromLane="0" to="608418574#0" toLane="0" />
     <connection from="608418576#0" fromLane="1" to="189908446" toLane="1" />
     <connection from="608418576#0" fromLane="2" to="189908446" toLane="2" />
+    <connection from="738994728#0" fromLane="1" to="38336643#0" toLane="2" />
     <connection from="741767467#0" fromLane="1" to="608418577" toLane="1" />
     <connection from="741767467#0" fromLane="2" to="608418577" toLane="2" />
     <connection from="761561721" fromLane="1" to="12319081#0" toLane="1" />
@@ -118,12 +132,14 @@
     <connection from="1016542175#3" fromLane="2" to="1017121219#0" toLane="0" uncontrolled="1"/>
     <connection from="1153365926#0" fromLane="0" to="1174333912" toLane="0" visibility="9.00"/>
     <connection from="1164717214" fromLane="0" to="608418573#0" toLane="0" visibility="9.00"/>
+    <connection from="1174565661#0" fromLane="1" to="1174565660" toLane="1" uncontrolled="1"/>
     <connection from="1184878071" fromLane="0" to="1184878070" toLane="0" uncontrolled="1"/>
     <connection from="1184878071" fromLane="1" to="1184878070" toLane="1" uncontrolled="1"/>
     <connection from="1184878072#0" fromLane="0" to="546881512#0" toLane="0" uncontrolled="1"/>
     <connection from="1184878072#0" fromLane="1" to="546881512#0" toLane="1" uncontrolled="1"/>
     <connection from="1184901742#0" fromLane="0" to="482261341#0" toLane="0" uncontrolled="1"/>
     <connection from="1184901742#0" fromLane="0" to="39895287" toLane="0" uncontrolled="1"/>
+    <connection from="1184901742#0" fromLane="1" to="-482261338#1" toLane="1" uncontrolled="1"/>
     <connection from="1186568760#0" fromLane="0" to="1017121219#0" toLane="0" uncontrolled="1"/>
     <connection from="1186568760#0" fromLane="0" to="1164706337#0" toLane="0" uncontrolled="1"/>
     <connection from="1186568760#0" fromLane="1" to="1164706337#0" toLane="1" uncontrolled="1"/>
@@ -134,6 +150,11 @@
     <connection from="224649279#28" fromLane="1" to="1164572117" toLane="1" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="1" to="40860748#0" toLane="0" uncontrolled="1"/>
     <connection from="386578487#0" fromLane="0" to="1174429371" toLane="0" visibility="9.00"/>
+    <connection from="40589813#3" fromLane="0" to="1164692079#0" toLane="0" uncontrolled="1"/>
+    <connection from="40589813#3" fromLane="0" to="1016542180#0" toLane="0" uncontrolled="1"/>
+    <connection from="40589813#3" fromLane="0" to="1016542178#0" toLane="1" uncontrolled="1"/>
     <connection from="546881517#0" fromLane="0" to="1184878070" toLane="0" uncontrolled="1"/>
+    <connection from="800153230#0" fromLane="1" to="453494265#0" toLane="1" uncontrolled="1"/>
+    <connection from="800153230#0" fromLane="2" to="453494265#0" toLane="2" uncontrolled="1"/>
     <connection from="835497258" fromLane="0" to="207634511#0" toLane="0" visibility="9.00"/>
 </connections>
