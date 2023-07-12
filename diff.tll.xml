@@ -372,10 +372,6 @@
     <connection from="1011328582#0" fromLane="0" to="207719827#0" toLane="0" linkIndex="2" tl="311886808"/>
     <connection from="1011328582#0" fromLane="0" to="1011321769#0" toLane="0" linkIndex="3" tl="311886808"/>
     <connection from="1011328582#0" fromLane="1" to="1011321769#0" toLane="1" linkIndex="4" tl="311886808"/>
-    <connection from="1014684310#1" fromLane="0" to="1175952372#0" toLane="0" linkIndex="4" tl="126617428"/>
-    <connection from="1014684310#1" fromLane="1" to="1174565660" toLane="1" linkIndex="5" tl="126617428"/>
-    <connection from="1014684310#1" fromLane="2" to="1174565660" toLane="2" linkIndex="6" tl="126617428"/>
-    <connection from="1014684310#1" fromLane="2" to="-1174565661#1" toLane="0" linkIndex="7" tl="126617428"/>
     <connection from="1016542177#0" fromLane="0" to="1164692079#0" toLane="0" linkIndex="0" tl="cluster_112613532_112628026"/>
     <connection from="1016542177#0" fromLane="1" to="1164692079#0" toLane="1" linkIndex="1" tl="cluster_112613532_112628026"/>
     <connection from="1016542177#0" fromLane="2" to="1016542180#0" toLane="0" linkIndex="2" tl="cluster_112613532_112628026"/>
@@ -399,10 +395,6 @@
     <connection from="1174441655#0" fromLane="0" to="974815081#0" toLane="0" linkIndex="3" tl="cluster_1305103908_1725588141_1725588144"/>
     <connection from="1174441655#0" fromLane="1" to="974815081#0" toLane="1" linkIndex="4" tl="cluster_1305103908_1725588141_1725588144"/>
     <connection from="1174565661#0" fromLane="0" to="1175952372#0" toLane="0" linkIndex="0" tl="126617428"/>
-    <connection from="1174565664#2" fromLane="0" to="1174565663#0" toLane="0" linkIndex="3" tl="343646851"/>
-    <connection from="1174565664#2" fromLane="1" to="1174565663#0" toLane="1" linkIndex="4" tl="343646851"/>
-    <connection from="1174565664#2" fromLane="2" to="1174565663#0" toLane="2" linkIndex="5" tl="343646851"/>
-    <connection from="1174565664#2" fromLane="2" to="39590262#0" toLane="0" linkIndex="6" tl="343646851"/>
     <connection from="1175977170#0" fromLane="0" to="975258841#0" toLane="0" linkIndex="0" tl="343646787"/>
     <connection from="1175977170#0" fromLane="1" to="975258841#0" toLane="1" linkIndex="0" tl="343646787"/>
     <connection from="1175977170#0" fromLane="1" to="975258840" toLane="0" linkIndex="0" tl="343646787"/>
