@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-06 04:28:02.782843 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-13 14:16:31.723845 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -153,9 +153,6 @@
     <connection from="224649279#28" fromLane="0" to="1164572117" toLane="0" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="1" to="1164572117" toLane="1" uncontrolled="1"/>
     <connection from="224649279#28" fromLane="1" to="40860748#0" toLane="0" uncontrolled="1"/>
-    <connection from="35475028#0" fromLane="0" to="-39654094#3" toLane="0" uncontrolled="1"/>
-    <connection from="35475028#0" fromLane="0" to="-193149514#2" toLane="0" uncontrolled="1"/>
-    <connection from="35475028#0" fromLane="0" to="1174623150#0" toLane="0" uncontrolled="1"/>
     <connection from="386578487#0" fromLane="0" to="1174429371" toLane="0" visibility="9.00"/>
     <connection from="546881517#0" fromLane="0" to="1184878070" toLane="0" uncontrolled="1"/>
     <connection from="800153230#0" fromLane="1" to="453494265#0" toLane="1" uncontrolled="1"/>
