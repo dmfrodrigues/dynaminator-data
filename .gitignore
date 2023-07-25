@@ -18,3 +18,4 @@ porto-unbounded.osm
 porto.poly.xml
 *.fma
 !*.armis.fma
+*.png

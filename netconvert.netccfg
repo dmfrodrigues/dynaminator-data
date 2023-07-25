@@ -36,7 +36,7 @@
         <no-turnarounds.except-deadend value="true"/>
         <junctions.join value="true"/>
         <junctions.join-dist value="10"/>
-        <junctions.join-exclude value="128617101,128616477,428217475"/>
+        <junctions.join-exclude value="128617101,128616477,428217475,475064052"/>
         <junctions.corner-detail value="5"/>
         <junctions.limit-turn-speed value="5.50"/>
         <rectangular-lane-cut value="0"/>
@@ -45,6 +45,8 @@
     <formats>
         <osm.lane-access value="true"/>
         <osm.turn-lanes value="true"/>
+        <osm.elevation value="true"/>
+        <osm.layer-elevation value="8.0"/>
     </formats>
 
 </configuration>

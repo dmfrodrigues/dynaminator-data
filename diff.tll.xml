@@ -8,7 +8,8 @@
 </configuration>
 -->
 
-<tlLogics version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tllogic_file.xsd">
+<tlLogics version="1.16"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tllogic_file.xsd">
     <!-- Deleted Elements -->
     <!-- implicit via changed node type: <delete id="GS_128673223" programID="0"/> -->
     <!-- implicit via changed node type: <delete id="GS_3554953679" programID="0"/> -->
@@ -143,9 +144,9 @@
         <phase duration="3" state="rryyyrr"/>
     </tlLogic>
     <tlLogic id="343646735" programID="0" offset="0" type="actuated">
-        <phase duration="30" maxDur="50" minDur="5" state="rrrGGgrrrGG"/>
+        <phase duration="30" state="rrrGGGrrrGG"/>
         <phase duration="3" state="rrryyyrrryy"/>
-        <phase duration="30" maxDur="50" minDur="5" state="GGGGrrrrrrr"/>
+        <phase duration="20" maxDur="50" minDur="5" state="GGGGrrrrrrr"/>
         <phase duration="3" state="yyyyrrrrrrr"/>
         <phase duration="30" maxDur="50" minDur="5" state="rrrrrrGGGGr"/>
         <phase duration="3" state="rrrrrryyyyr"/>
@@ -296,7 +297,7 @@
         <phase duration="3" state="yyyyrrrrrryyy"/>
     </tlLogic>
     <!-- Changed Elements -->
-    <tlLogic id="GS_126592365" programID="0" >
+    <tlLogic id="GS_126592365" programID="0">
         <phase duration="15" state="rrrGGrrGGGGrr"/>
         <phase duration="3" state="rrryyrryyyyrr"/>
         <phase duration="30" state="rrrGrGGGGGGrr"/>
@@ -306,13 +307,13 @@
         <phase duration="20" state="rrrrrrrrrrrGG"/>
         <phase duration="3" state="rrrrrrrrrrryy"/>
     </tlLogic>
-    <tlLogic id="GS_2585503026" programID="0" >
+    <tlLogic id="GS_2585503026" programID="0">
         <phase duration="42" maxDur="50" minDur="5" state="GGGrr"/>
         <phase duration="3" state="yyyrr"/>
         <phase duration="42" maxDur="50" minDur="5" state="rrrGG"/>
         <phase duration="3" state="rrryy"/>
     </tlLogic>
-    <tlLogic id="GS_3446699979" programID="0" >
+    <tlLogic id="GS_3446699979" programID="0">
         <phase duration="42" maxDur="50" minDur="5" state="GGGGrrr"/>
         <phase duration="3" state="yyyyrrr"/>
         <phase duration="42" maxDur="50" minDur="5" state="rrrGGGG"/>
@@ -494,11 +495,6 @@
     <connection from="453493826#0" fromLane="2" to="453493822#0" toLane="0" linkIndex="3" tl="343646810"/>
     <connection from="453814134#1" fromLane="0" to="135411469#6" toLane="0" linkIndex="3" tl="cluster_1264279385_4581699524_8272254455"/>
     <connection from="453814134#1" fromLane="0" to="224649287#7" toLane="1" linkIndex="4" tl="cluster_1264279385_4581699524_8272254455"/>
-    <connection from="480146199" fromLane="0" to="480146196" toLane="0" linkIndex="2" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
-    <connection from="480146199" fromLane="1" to="480146196" toLane="1" linkIndex="3" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
-    <connection from="480146199" fromLane="2" to="480146198#0" toLane="0" linkIndex="4" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
-    <connection from="536714314#2" fromLane="0" to="637225052" toLane="0" linkIndex="0" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
-    <connection from="536714314#2" fromLane="1" to="637225052" toLane="1" linkIndex="1" tl="joinedS_cluster_130075590_1352647030_cluster_1352647001_5307690020"/>
     <connection from="549444984#0" fromLane="0" to="434879916#0" toLane="0" linkIndex="2" tl="cluster_1842003093_299610558"/>
     <connection from="549444984#0" fromLane="0" to="434879917#0" toLane="0" linkIndex="3" tl="cluster_1842003093_299610558"/>
     <connection from="549444984#0" fromLane="1" to="434879917#0" toLane="1" linkIndex="4" tl="cluster_1842003093_299610558"/>
