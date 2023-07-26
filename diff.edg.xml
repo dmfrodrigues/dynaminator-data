@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-13 14:16:30.228197 by netdiff.py UNKNOWN
+<!-- generated on 2023-07-26 20:32:46.509557 by netdiff.py UNKNOWN
 <configuration>
     <source value="porto-osm-geo.net.xml"/>
     <dest value="porto-fixed.net.xml"/>
@@ -10,8 +10,14 @@
 
 <edges version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edgediff_file.xsd">
     <!-- Deleted Elements -->
+    <delete id="13713991#0"/>
     <!-- Created Elements -->
     <!-- Changed Elements -->
+    <edge id="-13713959#6" from="cluster_1264279327_126583944"/>
+    <edge id="110801269#0" from="cluster_1264279327_126583944"/>
+    <edge id="110801271#1" from="cluster_1264279327_126583944"/>
     <edge id="1165291408#0" shape="531315.95,4555983.36 531311.24,4556000.36 531308.89,4556010.40 531303.62,4556023.06"/>
+    <edge id="135411081#0" to="cluster_1264279327_126583944"/>
+    <edge id="13713959#0" to="cluster_1264279327_126583944"/>
     <edge id="167487371#0" shape="531300.13,4556022.45 531301.73,4556011.91 531301.53,4556008.83 531303.96,4555997.91 531307.71,4555982.89"/>
 </edges>
